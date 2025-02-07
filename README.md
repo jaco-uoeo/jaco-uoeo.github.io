@@ -1,6 +1,6 @@
 # Welcome to my e-Profile
 
-Hi! This is mu profile for **UoEO**. Please use the navigation links below.
+Hi! This is my profile for **UoEO**. Please use the navigation links below.
 
 # Modules
 
