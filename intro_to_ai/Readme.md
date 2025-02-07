@@ -6,6 +6,12 @@ Hi, this is the intro to Artificial Intelligence module.
 
 [Go back to main](/machine_learning)
 
+[my image](pexels-anjana-c-169994-674010.jpg)
+
+
+![my image](pexels-anjana-c-169994-674010.jpg)
+
+
 > #### The quarterly results look great!
 >
 > - Revenue was off the chart.
