@@ -1,6 +1,6 @@
 # Section navigation demonstration
 
-Use the following links to navigate to the start of paragraphs in this documnent.
+Use the following links to navigate to the start of named sections in this document.
 
 1. [Section 1](#section-1)
 2. [Section 2](#section-2)
