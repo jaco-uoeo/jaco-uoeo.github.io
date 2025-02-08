@@ -5,7 +5,7 @@ Use the following links to navigate to the start of paragraphs in this documnent
 1. [Section 1](#section-1)
 2. [Section 2](#section-2)
 
-## Introduction of note
+## Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et rutrum ex. Mauris at odio id tellus laoreet pretium eget at felis. Morbi vitae suscipit odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce in turpis aliquet, gravida augue eu, laoreet ante. Donec viverra sapien nec dolor maximus convallis. Suspendisse mollis lobortis consectetur. Phasellus nec ipsum malesuada, pretium nisl at, sollicitudin est. Curabitur nec lacinia enim, id fringilla eros. Integer non ornare tortor. Quisque non porta lectus. Mauris et lobortis nibh. Ut eu ligula a erat blandit consequat.
 
