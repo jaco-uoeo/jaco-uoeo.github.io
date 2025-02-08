@@ -2,8 +2,8 @@
 
 Use the following links to navigate to the stat of paragraphs in this documnent.
 
-1. [Section 1](#section1)
-2. [Section 2](#section2)
+1. [Section 1](#section-1)
+2. [Section 2](#section-2)
 
 ## Introduction
 
