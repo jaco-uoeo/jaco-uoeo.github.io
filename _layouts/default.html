@@ -33,8 +33,10 @@
 
             function animateMenu() {
                 currentOffset += (targetOffset - currentOffset) * 0.1;
-                menu.style.transform = `translateY(${currentOffset}px)`;
-                requestAnimationFrame(animateMenu);
+                if (currentOffset > 20) {
+                    menu.style.transform = `translateY(${currentOffset}px)`;
+                    requestAnimationFrame(animateMenu);
+                }
             }
 
             //animateMenu();
