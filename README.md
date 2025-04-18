@@ -94,7 +94,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
     toggle.addEventListener('click', function () {
         const isVisible = links.style.display === 'block';
         links.style.display = isVisible ? 'none' : 'block';
-        label.style.display = isVisible ? 'none' : 'block';
+        label.style.display = isVisible ? 'none' : 'inline';
     });
   });
 </script>
