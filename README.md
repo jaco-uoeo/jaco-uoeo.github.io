@@ -79,7 +79,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
   }
 
   #menuLinks a:hover {
-    background-color: #f0f0f0;
+    background-color:rgb(49, 50, 56);
   }
 </style>
 
@@ -88,6 +88,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
     const toggle = document.getElementById('menuToggle');
     const links = document.getElementById('menuLinks');
     const label = document.getElementById('menuLabel');
+    const menu = document.getElementById('hamburgerMenu');
 
     toggle.addEventListener('click', function () {
         const isVisible = links.style.display === 'block';
