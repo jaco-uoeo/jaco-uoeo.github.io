@@ -1,9 +1,7 @@
 # Team Project
 {: .hidden-title }
 
-## Assignment Summary: Airbnb Data Science Analysis
-
-### Overview
+## Overview
 Airbnb has enabled personalized travel experiences since 2008. This assignment uses the AB_NYC_2019.csv dataset from Kaggle, which covers Airbnb listings across New York City in 2019. It includes host details, geographic information, and various metrics useful for analysis and prediction.
 
 **Objective:**
