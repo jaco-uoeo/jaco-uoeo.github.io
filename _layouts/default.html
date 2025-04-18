@@ -24,24 +24,6 @@
                 links.style.display = 'none';
                 label.style.display = 'none'; 
             });
-
-            /// Easing back to 20px from top
-            let currentOffset = 0;
-            const targetOffset = 20;
-
-            window.addEventListener('scroll', animateMenu);
-
-            function animateMenu() {
-                //currentOffset += (targetOffset - currentOffset) * 0.1;
-                preferredOffset = (targetOffset - currentOffset) * 0.1;
-                if (preferredOffset < 20) {
-                    currentOffset = preferredOffset;
-                    menu.style.transform = `translateY(${currentOffset}px)`;
-                    requestAnimationFrame(animateMenu);
-                }
-            }
-
-            //animateMenu();
         });
     </script>
 
