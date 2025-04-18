@@ -54,4 +54,73 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 
 
 
-<div w3-include-html="/assets/custom/menu.html"></div>
+
+<div id="hamburgerMenu">
+  <input type="checkbox" id="menuToggle" />
+  <label for="menuToggle" id="menuButton">
+    &#9776; <span id="menuLabel">MENU</span>
+  </label>
+  
+  <div id="menuLinks">
+    <a href="/">Home</a>
+    <a href="/machine_learning/">Machine Learning</a>
+    <a href="/pdp/">Professional Development Plan</a>
+  </div>
+</div>
+
+<style>
+  #hamburgerMenu {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Hide the checkbox */
+  #menuToggle {
+    display: none;
+  }
+
+  /* Style the label as a button */
+  #menuButton {
+    background: #333;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+    user-select: none;
+  }
+
+  #menuLabel {
+    margin-left: 8px;
+    font-weight: bold;
+    color: white;
+  }
+
+  #menuLinks {
+    display: none;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  #menuLinks a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    background: #333;
+  }
+
+  #menuLinks a:hover {
+    background-color: rgb(90, 91, 97);
+  }
+
+  /* Show menu when checkbox is checked */
+  #menuToggle:checked ~ #menuLinks {
+    display: block;
+  }
+</style>
