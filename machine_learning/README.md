@@ -13,7 +13,7 @@ Machine learning is a way for computers to learn from data and improve over time
 - [Exploratory Data Analysis](unit02/exploratory_data_analysis.md)
 - [Regression and Covariance](unit03/regression_and_covariance.md)
 - [Linear Regression with Scikit-Learn](unit04/linear_regression_with_scikit_Learn.md)
-- [Jaccard Coefficient Calculations](unit05/jaccard_%20coefficient_calculations.md)
+- [Jaccard Coefficient Calculations](unit05/jaccard_coefficient_calculations.md)
 - [K-Means Clustering](unit06/k_means_clustering.md)
 - [Perceptron Activities](unit07/perceptron.md)
 - [Gradient Cost Function](unit08/gradient_cost_function.md)
