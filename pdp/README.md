@@ -50,22 +50,20 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 
 [Back to Machine Learning](/machine_learning/)
 
-
-
 <div id="hamburgerMenu">
-  <!-- Hidden radio buttons for toggle logic -->
-  <input type="radio" name="menu" id="menuOpen" />
-  <input type="radio" name="menu" id="menuClose" checked />
+  <!-- Radio buttons -->
+  <input type="radio" name="menuToggle" id="menuOpen" />
+  <input type="radio" name="menuToggle" id="menuClose" checked />
 
-  <!-- Label acts as toggle button -->
+  <!-- Toggle button -->
   <label for="menuOpen" id="menuButton">&#9776; <span>MENU</span></label>
 
   <!-- Menu items -->
-  <nav id="menuLinks">
+  <div id="menuLinks">
     <label for="menuClose"><a href="/">Home</a></label>
     <label for="menuClose"><a href="/machine_learning/">Machine Learning</a></label>
     <label for="menuClose"><a href="/pdp/">Professional Development Plan</a></label>
-  </nav>
+  </div>
 </div>
 
 <style>
@@ -77,10 +75,12 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     font-family: Arial, sans-serif;
   }
 
+  /* Hide radio buttons */
   input[type="radio"] {
     display: none;
   }
 
+  /* Menu toggle button */
   #menuButton {
     background: #333;
     color: white;
@@ -88,14 +88,15 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     border-radius: 5px;
     display: inline-block;
     cursor: pointer;
-    user-select: none;
     font-weight: bold;
+    user-select: none;
   }
 
   #menuButton span {
     margin-left: 8px;
   }
 
+  /* Menu links container */
   #menuLinks {
     max-height: 0;
     overflow: hidden;
@@ -106,8 +107,10 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
 
+  /* Menu links styling */
   #menuLinks label {
     display: block;
+    cursor: pointer;
   }
 
   #menuLinks a {
@@ -121,20 +124,15 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     background-color: rgb(90, 91, 97);
   }
 
-  /* Show menu if "open" is checked */
+  /* Show menu when "menuOpen" is selected */
+  #menuOpen:checked ~ #menuButton + #menuLinks,
   #menuOpen:checked ~ #menuLinks {
     max-height: 500px;
   }
 
-  /* Hide menu when closed */
+  /* Hide menu when "menuClose" is selected */
   #menuClose:checked ~ #menuLinks {
     max-height: 0;
   }
-
-  /* Hide on wider screens */
-  @media (min-width: 768px) {
-    #hamburgerMenu {
-      display: none;
-    }
-  }
+  
 </style>
