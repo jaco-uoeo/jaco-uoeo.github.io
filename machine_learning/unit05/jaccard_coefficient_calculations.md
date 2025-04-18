@@ -1,7 +1,8 @@
 # Jaccard Coefficient Calculations
 {: .hidden-title }
 
-The table shows the pathological test results for three individuals.
+
+The table shows the pathological test results for three individuals, using this information we can calculate the Jaccard Coefficient pairs using the Jaccard similarity formula.
 
 | Name | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4 |
 |------|--------|-------|-------|--------|--------|--------|--------|

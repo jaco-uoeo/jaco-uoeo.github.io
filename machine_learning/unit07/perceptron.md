@@ -1,6 +1,8 @@
 # Perceptrons
 {: .hidden-title }
 
+## Overview
+
 A perceptron is a basic type of artificial neural network used for classification tasks. It takes input features, applies weights and a bias, then uses an activation function to produce an output. Essentially, it helps make decisions by classifying data into two categories. While simple and effective for linear problems, the perceptron has limitations, especially when it comes to handling more complex, non-linear data. 
 
 ## Activities

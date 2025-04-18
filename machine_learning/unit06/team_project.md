@@ -1,9 +1,9 @@
 # Team Project
 {: .hidden-title }
 
-### Assignment Summary: Airbnb Data Science Analysis
+## Assignment Summary: Airbnb Data Science Analysis
 
-Overview:
+### Overview
 Airbnb has enabled personalized travel experiences since 2008. This assignment uses the AB_NYC_2019.csv dataset from Kaggle, which covers Airbnb listings across New York City in 2019. It includes host details, geographic information, and various metrics useful for analysis and prediction.
 
 **Objective:**
@@ -18,15 +18,15 @@ Use appropriate techniques to answer your chosen question. This may include EDA,
 **Task 3** – Report:
 Create a clear, 1000-word analytical report suitable for Airbnb executives. Include meaningful visualizations and explain your findings in a business-focused, accessible manner.
 
-### Team coordination activities
+## Team coordination activities
 
 Initial contact was made via the UoEO email address as well as direct one-to-one messages on the learning platform, as group chat is not available. We managed to get the entire team together after a few days and created and coordinated our activities on a WhatsApp group. We met several times during the course of the project on Monday evenings to accommodate everyone's schedules and had live meetings over Google Meet, as some members had technical issues with Microsoft Teams.
 
-### Issues encountered 
+## Issues encountered 
 The project timeline happened to overlap with Ramadan for two team members and a vacation break for another, so we made an effort to work around these challenges. This helped ensure that everyone had a fair chance to contribute and get the most out of the team experience.
 
 
-### The artefacts created as part of this project
+## The artefacts created as part of this project
 
 [Our team contract](https://github.com/jaco-uoeo/ml-artefact/raw/refs/heads/main/team_project/Team%20Contract%20-%20Group%20One.docx)
 

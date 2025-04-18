@@ -1,6 +1,8 @@
 # Gradient Cost Function
 {: .hidden-title }
 
+## Overview
+
 Gradient descent is a method used to minimize the cost function in machine learning by adjusting model parameters step by step. The size of these steps is determined by the learning rate. If the learning rate is too high and iterations are few, the algorithm might skip over the global minimum. On the other hand, a very low learning rate could result in slow progress. The goal is to find the right balance between learning rate and iteration count, ensuring that the cost is minimized efficiently without overshooting or taking too long to converge.
 
 ### Summary of the Gradient Descent Process:

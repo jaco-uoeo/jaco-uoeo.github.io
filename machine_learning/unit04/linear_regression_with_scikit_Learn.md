@@ -1,8 +1,9 @@
 # Linear Regression with Scikit-Learn
 {: .hidden-title }
 
-Linear Regression in Scikit-Learn is a straightforward and widely used technique to understand and model the relationship between variables. It works by finding the best-fitting straight line that predicts a target value based on one or more input features. With Scikit-Learn’s ```LinearRegression()``` class, you can easily train the model using ```.fit(X, y)```, make predictions with ```.predict()```, and measure accuracy using metrics like the R² score. It’s useful for tasks like predicting house prices or fuel efficiency, and fits smoothly into Scikit-Learn’s ecosystem for preprocessing, model evaluation, and building machine learning pipelines.
+## Overview
 
+Linear Regression in Scikit-Learn is a straightforward and widely used technique to understand and model the relationship between variables. It works by finding the best-fitting straight line that predicts a target value based on one or more input features. With Scikit-Learn’s ```LinearRegression()``` class, you can easily train the model using ```.fit(X, y)```, make predictions with ```.predict()```, and measure accuracy using metrics like the R² score. It’s useful for tasks like predicting house prices or fuel efficiency, and fits smoothly into Scikit-Learn’s ecosystem for preprocessing, model evaluation, and building machine learning pipelines.
 
 ## Activities
 

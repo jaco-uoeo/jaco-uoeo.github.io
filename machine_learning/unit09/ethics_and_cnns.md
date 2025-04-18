@@ -1,7 +1,7 @@
 # Convolutional Neural Networks
 {: .hidden-title }
 
-### Using CNNs for Law Enforcement: Ethical considerations
+## Using CNNs for Law Enforcement: Ethical considerations
 
 Facial recognition technology is being tested by police and security forces as a tool to spot criminals or potential terrorists. In reflecting on the article by Wall (2019), it is clear that while the idea of preventing attacks and saving lives is powerful, it comes with serious ethical risks. What if the system gets it wrong? A false match could mean an innocent person is wrongly targeted — or worse. These systems often struggle with accuracy, especially when identifying women and people with darker skin tones, because the data used to train them is often biased.
 
