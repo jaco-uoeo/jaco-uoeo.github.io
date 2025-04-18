@@ -65,7 +65,6 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
   #menuLinks {
     display: none;
     margin-top: 10px;
-    border: 1px solid #ccc;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 5px;
   }
