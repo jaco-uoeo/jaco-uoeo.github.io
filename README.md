@@ -1,4 +1,4 @@
-Hello and welcome to my University of Essex Online e-portfolio!
+Hello and welcome to my University of Essex Online portfolio!
 
 I’m currently studying towards an MSc in Artificial Intelligence, and this space will serve as a living record of my journey through the course. Here, I’ll be documenting my progress, sharing reflections, showcasing assignments, and highlighting the skills and knowledge I gain along the way.
 

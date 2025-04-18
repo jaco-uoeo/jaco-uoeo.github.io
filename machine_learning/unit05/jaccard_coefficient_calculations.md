@@ -65,9 +65,7 @@ $$
 
 **Jaccard coefficient for Jack & Jim:**
 
-$$
-Jaccard(Jack, Jim) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{1 + 1}{1 + 1 + 1} = \frac{2}{3} = 0.67
-$$
+| $$ Jaccard(Jack, Jim) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{1 + 1}{1 + 1 + 1} = \frac{2}{3} = 0.67 $$ |
 
 ---
 
