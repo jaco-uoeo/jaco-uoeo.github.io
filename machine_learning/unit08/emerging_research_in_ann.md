@@ -1,4 +1,5 @@
 # Emerging Research in ANN
+{: .hidden-title }
 
 In reflecting on the 2019 snapshot paper from Centre of Data Ethics and Innovation (CDEI) it is clear that as AI becomes more common in insurance, it's important to think carefully about how it's used. One big concern is privacy — AI systems often rely on large amounts of personal data, and people may not always know what's being collected or how it's used. There’s also the risk of unfair treatment. If the data behind the AI is biased, the decisions it makes might be too — potentially making some people seem riskier than they really are, or even uninsurable.
 

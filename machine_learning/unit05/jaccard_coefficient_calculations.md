@@ -1,4 +1,5 @@
 # Jaccard Coefficient Calculations
+{: .hidden-title }
 
 The table shows the pathological test results for three individuals.
 

@@ -1,4 +1,5 @@
 # Model Performance Measurement
+{: .hidden-title }
 
 While reviewing a notebook that used sklearn.metrics to evaluate a machine learning model, I found it helpful to see a variety of performance measures applied in one place. Accuracy gave a general sense of how often the model predicted correctly, but more detailed metrics added valuable insight. In particular:
 

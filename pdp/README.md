@@ -1,4 +1,5 @@
 # Personal Development Plan
+{: .hidden-title }
 
 Lately, with my current MSc project, I’ve felt the pressure of juggling work, study, and everything in between. I’ve noticed I end up cramming or skimming through material without really absorbing or applying it. That’s why I’m leaning into a Professional Growth Plan—it gives me a way to step back, see the bigger picture, and build consistency. Instead of just reacting to deadlines, I can be intentional with how I use my limited time. It’s not about doing more—it’s about making what I do count, learning deeply, and actually growing through this process, not just surviving it.
 

@@ -1,4 +1,5 @@
 # Team Project
+{: .hidden-title }
 
 ### Assignment Summary: Airbnb Data Science Analysis
 

@@ -1,5 +1,5 @@
 # Regression and Covariance
-
+{: .hidden-title }
 ## Overview
 
 Regression and covariance are both statistical tools used to explore relationships between variables, helping us make sense of how changes in one thing might relate to changes in another.

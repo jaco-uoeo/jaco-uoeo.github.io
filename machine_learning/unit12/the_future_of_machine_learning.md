@@ -1,5 +1,5 @@
 # The Future of Machine Learning
-
+{: .hidden-title }
 
 
 

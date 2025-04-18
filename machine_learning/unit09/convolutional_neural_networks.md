@@ -1,4 +1,5 @@
 # Convolutional Neural Networks
+{: .hidden-title }
 
 ## Activities
 
