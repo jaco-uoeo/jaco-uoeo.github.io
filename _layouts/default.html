@@ -25,31 +25,16 @@
                 label.style.display = 'none'; 
             });
 
-            // Smooth "ease toward scroll"
-            let targetTop = 20;
-            let currentTop = 20;
-
-            function onScroll() {
-                targetTop = 20; // Keep fixed offset from top of viewport
-            }
+            /// Easing back to 20px from top
+            let currentOffset = 0;
+            const targetOffset = 20;
 
             function animateMenu() {
-                // Smooth easing to desired offset
-                currentTop += (targetTop - currentTop) * 0.1;
-                menu.style.transform = `translateY(${currentTop}px)`;
+                currentOffset += (targetOffset - currentOffset) * 0.1;
+                menu.style.transform = `translateY(${currentOffset}px)`;
                 requestAnimationFrame(animateMenu);
             }
 
-            // Track scroll and adjust "offset feel"
-            let lastScrollY = window.scrollY;
-            function updateOnScroll() {
-                const scrollDelta = window.scrollY - lastScrollY;
-                lastScrollY = window.scrollY;
-                targetTop += scrollDelta * 0.2; // Easing factor (adjust feel here)
-                targetTop = Math.max(0, targetTop); // Prevent it from flying off screen
-            }
-
-            window.addEventListener('scroll', updateOnScroll);
             animateMenu();
         });
     </script>

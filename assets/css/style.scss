@@ -10,10 +10,10 @@
 
 #hamburgerMenu {
   position: fixed;
-  transition: none;
-  top: 20px;
+  top: 0px;
   right: 20px;
   z-index: 1000;
+  transform: translateY(0px);
 }
 
  #menuToggle {
