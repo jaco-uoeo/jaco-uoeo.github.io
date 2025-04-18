@@ -25,18 +25,23 @@
                 label.style.display = 'none'; 
             });
 
-            // Smooth "floating" effect — easing toward a fixed 20px offset from top of viewport
-            let currentTop = 20; // starting at 20px from top of screen
-            const desiredTop = 20;
+            // Easing scroll follower
+            let currentTop = 20;
+            let targetTop = 20;
 
-            function smoothFollow() {
-                currentTop += (desiredTop - currentTop) * 0.1; // easing to fixed 20px
+            function updateTarget() {
+                targetTop = 20 + window.scrollY * 0.3; // Adjust multiplier as desired
+            }
+
+            function animateMenu() {
+                currentTop += (targetTop - currentTop) * 0.1; // easing
                 menu.style.top = `${currentTop}px`;
-                requestAnimationFrame(smoothFollow);
-        }
+                requestAnimationFrame(animateMenu);
+            }
 
-        smoothFollow();
-
+            window.addEventListener('scroll', updateTarget);
+            updateTarget();
+            animateMenu();
         });
     </script>
 
