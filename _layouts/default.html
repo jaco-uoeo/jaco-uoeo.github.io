@@ -32,8 +32,10 @@
             window.addEventListener('scroll', animateMenu);
 
             function animateMenu() {
-                currentOffset += (targetOffset - currentOffset) * 0.1;
-                if (currentOffset > 20) {
+                //currentOffset += (targetOffset - currentOffset) * 0.1;
+                preferredOffset += (targetOffset - currentOffset) * 0.1;
+                if (preferredOffset > 20) {
+                    currentOffset = preferredOffset;
                     menu.style.transform = `translateY(${currentOffset}px)`;
                     requestAnimationFrame(animateMenu);
                 }
