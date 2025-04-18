@@ -18,8 +18,6 @@
             const isVisible = links.style.display === 'block';
             links.style.display = isVisible ? 'none' : 'block';
             label.style.display = isVisible ? 'none' : 'inline';
-
-            toggle.innerHTML = isVisible ? '&times;' : '&#9776;'; // ☰ -> ×
         });
     
         menu.addEventListener('mouseleave', function () {
