@@ -22,7 +22,7 @@ Converting the asymmetric variables to binary values:
 
 The Jaccard Similarity between two sets \( A \) and \( B \) is given by:
 
-$$ Jaccard = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} $$
+| $$ Jaccard = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} $$ |
 
 
 ### Pair 1: Jack vs Mary
@@ -41,7 +41,7 @@ $$ Jaccard = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} $$
 
 **Jaccard coefficient for Jack & Mary:**
 
-$$ Jaccard(Jack, Mary) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{1 + 0}{1 + 0 + 2} = \frac{1}{3} = 0.33 $$
+| $$ Jaccard(Jack, Mary) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{1 + 0}{1 + 0 + 2} = \frac{1}{3} = 0.33 $$ |
 
 ---
 
@@ -81,7 +81,7 @@ $$ Jaccard(Jack, Mary) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \fra
 
 **Jaccard coefficient for Jim & Mary:**
 
-$$ Jaccard(Jim, Mary) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{2 + 1}{2 + 1 + 1} = \frac{3}{4} = 0.75 $$
+| $$ Jaccard(Jim, Mary) = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} = \frac{2 + 1}{2 + 1 + 1} = \frac{3}{4} = 0.75 $$ |
 
 ---
 
