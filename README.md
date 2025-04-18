@@ -1,10 +1,93 @@
-# Welcome to my e-Profile
+# MSc Artificial Intelligence E-Portfolio
 
-Hi! This is my profile for **UoEO**. Please use the navigation links below.
+Hello and welcome to my University of Essex Online e-portfolio!
 
-# Modules
+I’m currently studying towards an MSc in Artificial Intelligence, and this space will serve as a living record of my journey through the course. Here, I’ll be documenting my progress, sharing reflections, showcasing assignments, and highlighting the skills and knowledge I gain along the way.
 
-1. [Introduction to Artificial Intelligence](intro_to_ai)
-2. [Numerical Analysis](numerical_analysis)
-3. [Machine learning](machine_learning)
-4. [Section Navigation Demo](test)
+This e-portfolio is very much a work in progress and will continue to evolve as I move through the programme. Thanks for stopping by, and feel free to check back for updates as my learning unfolds.
+
+---
+
+<div style="width: 95%; max-width: 1000px; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px; background-color: #f9f9f9;">
+  <h3 style="margin-top: 0;">
+    <a href="machine_learning" style="text-decoration: none;">🔗 Machine Learning</a>
+  </h3>
+  <p>Machine learning is a way for computers to learn from data and improve over time without being explicitly programmed. It's a key part of artificial intelligence, helping machines make decisions, recognize patterns, and adapt. This module deals with foundational algorithms, practical implementation, and real-world applications of machine learning across various domains...
+  <br/>
+  <a href="machine_learning" style="text-decoration: none; color: #2a7ae2; margin-left:10px; float: right;">more</a>
+  </p>
+</div>
+
+
+<div style="width: 95%; max-width: 1000px; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px; background-color:rgb(59, 59, 66);">
+  <h3 style="margin-top: 0;">
+    <a href="pdp/pdp.md" style="text-decoration: none; color: #2a7ae2;">🔗 Personal Development Plan</a>
+  </h3>
+  <p>Explore my Personal Development Plan to see how I’m actively working on my skills, goals, and growth as a professional. Join me on my journey as I continue to learn, improve, and reach new milestones...
+  <br/>
+<a href="pdp" style="text-decoration: none; color: #2a7ae2; margin-left:10px; float: right;">more</a>
+  </p>
+</div>
+
+<div id="hamburgerMenu">
+  <div id="menuToggle">&#9776;</div>
+  <div id="menuLinks">
+    <a href="#section1">Section 1</a>
+    <a href="#section2">Section 2</a>
+    <a href="#section3">Section 3</a>
+  </div>
+</div>
+
+<style>
+  #hamburgerMenu {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+  }
+
+  #menuToggle {
+    background: #333;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    user-select: none;
+  }
+
+  #menuLinks {
+    display: none;
+    margin-top: 10px;
+    background: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+  }
+
+  #menuLinks a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  #menuLinks a:hover {
+    background-color: #f0f0f0;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggle = document.getElementById('menuToggle');
+    const links = document.getElementById('menuLinks');
+
+    toggle.addEventListener('click', function () {
+      if (links.style.display === 'block') {
+        links.style.display = 'none';
+      } else {
+        links.style.display = 'block';
+      }
+    });
+  });
+</script>
