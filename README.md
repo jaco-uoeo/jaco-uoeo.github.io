@@ -30,9 +30,9 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 <div id="hamburgerMenu">
   <div id="menuToggle">&#9776;<div id="menuLabel" style="display: none;">MENU</div></div>
   <div id="menuLinks">
-    <a href="#section1">Home</a>
-    <a href="#section2">Machine Learning</a>
-    <a href="#section3">Professional Development Plan</a>
+    <a href="/">Home</a>
+    <a href="/machine_learning/">Machine Learning</a>
+    <a href="/pdp/">Professional Development Plan</a>
   </div>
 </div>
 
