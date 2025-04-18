@@ -18,6 +18,8 @@
             const isVisible = links.style.display === 'block';
             links.style.display = isVisible ? 'none' : 'block';
             label.style.display = isVisible ? 'none' : 'inline';
+
+            this.classList.toggle('active');
         });
     
         menu.addEventListener('mouseleave', function () {
@@ -58,7 +60,11 @@
         {{ content }}
 
         <div id="hamburgerMenu">
-            <div id="menuToggle">&#9776;<div id="menuLabel" style="display: none;">MENU</div></div>
+            <div id="menuToggle">
+                <div class="bar top"></div>
+                <div class="bar middle"></div>
+                <div class="bar bottom"></div>
+              </div>
             <div id="menuLinks">
                 <a href="/">Home</a>
                 <a href="/machine_learning/">Machine Learning</a>

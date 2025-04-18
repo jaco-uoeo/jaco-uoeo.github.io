@@ -6,7 +6,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 ---
 
-<div style="width: 95%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
+<div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
     <a href="machine_learning" style="text-decoration: none;">Machine Learning</a>
   </h3>
@@ -17,7 +17,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 </div>
 
 
-<div style="width: 95%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
+<div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
     <a href="pdp" style="text-decoration: none;">Personal Development Plan</a>
   </h3>
