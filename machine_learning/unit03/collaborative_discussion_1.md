@@ -8,9 +8,9 @@
 
 ## Navigation
 - [Initial Post](#initial-post)
-- [Peer Response 1](#peer-response-1)
-- [Peer Response 2](#peer-response-2)
-- [Peer Response 3](#peer-response-3)
+  - [Peer Response 1](#peer-response-1)
+  - [Peer Response 2](#peer-response-2)
+  - [Peer Response 3](#peer-response-3)
 - [Summary Post](#summary-post)
 - [Back to Machine Learning](/machine_learning)
 

@@ -6,7 +6,7 @@ Read/listen to the article by Hutson (2021) in Nature on Robo-writers. This week
 ## Navigation
 
 - [Initial Post](#initial-post)
-- [Peer Response 1](#peer-response-1)
+  - [Peer Response 1](#peer-response-1)
 - [Summary Post](#summary-post)
 - [Back to Machine Learning](/machine_learning)
 

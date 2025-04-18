@@ -47,7 +47,6 @@ Our team's version 2 combined work:
 
 ### References consulted for this project
 
-References
 Dgomonov (2019) Kaggle: New York City Airbnb Open Data. Available at: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data (Accessed: 1 March 2025).
 
 Ghosh, A. (2020) Bridging Gaps in Exploratory Data Analysis using Dimensionality Reduction. University of Alberta. Available at: https://doi.org/10.7939/r3-tsdt-2s04.
