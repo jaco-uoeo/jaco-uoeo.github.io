@@ -117,11 +117,6 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
   #menuToggle:checked ~ #menuLinks {
     max-height: 500px; /* Enough space to show links */
   }
-
-  /* Mobile-only: hide menu on screens wider than 768px */
-  @media (min-width: 768px) {
-    #hamburgerMenu {
-      display: none;
-    }
-  }
+ 
+  
 </style>
