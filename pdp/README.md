@@ -49,5 +49,5 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 4. What’s one small experiment I can try next month?
 
 
-[Back to Machine Learning](/machine_learning/)
+[Back](/)
 
