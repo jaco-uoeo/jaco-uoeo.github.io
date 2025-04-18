@@ -49,3 +49,9 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 
 
 [Back to Machine Learning](/machine_learning/)
+
+
+
+
+
+<div w3-include-html="/assets/custom/menu.html"></div>
