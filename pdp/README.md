@@ -51,16 +51,20 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 [Back to Machine Learning](/machine_learning/)
 
 
-<div id="hamburgerMenu">
-  <input type="checkbox" id="menuToggle" />
-  <label for="menuToggle" id="menuButton">
-    &#9776; <span id="menuLabel">MENU</span>
-  </label>
 
+<div id="hamburgerMenu">
+  <!-- Hidden radio buttons for toggle logic -->
+  <input type="radio" name="menu" id="menuOpen" />
+  <input type="radio" name="menu" id="menuClose" checked />
+
+  <!-- Label acts as toggle button -->
+  <label for="menuOpen" id="menuButton">&#9776; <span>MENU</span></label>
+
+  <!-- Menu items -->
   <nav id="menuLinks">
-    <a href="/" onclick="document.getElementById('menuToggle').checked = false;">Home</a>
-    <a href="/machine_learning/" onclick="document.getElementById('menuToggle').checked = false;">Machine Learning</a>
-    <a href="/pdp/" onclick="document.getElementById('menuToggle').checked = false;">Professional Development Plan</a>
+    <label for="menuClose"><a href="/">Home</a></label>
+    <label for="menuClose"><a href="/machine_learning/">Machine Learning</a></label>
+    <label for="menuClose"><a href="/pdp/">Professional Development Plan</a></label>
   </nav>
 </div>
 
@@ -73,7 +77,7 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     font-family: Arial, sans-serif;
   }
 
-  #menuToggle {
+  input[type="radio"] {
     display: none;
   }
 
@@ -81,16 +85,15 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     background: #333;
     color: white;
     padding: 10px 15px;
-    cursor: pointer;
     border-radius: 5px;
     display: inline-block;
+    cursor: pointer;
     user-select: none;
+    font-weight: bold;
   }
 
-  #menuLabel {
+  #menuButton span {
     margin-left: 8px;
-    font-weight: bold;
-    color: white;
   }
 
   #menuLinks {
@@ -101,6 +104,10 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     margin-top: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+
+  #menuLinks label {
+    display: block;
   }
 
   #menuLinks a {
@@ -114,9 +121,20 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     background-color: rgb(90, 91, 97);
   }
 
-  #menuToggle:checked ~ #menuLinks {
-    max-height: 500px; /* Enough space to show links */
+  /* Show menu if "open" is checked */
+  #menuOpen:checked ~ #menuLinks {
+    max-height: 500px;
   }
- 
-  
+
+  /* Hide menu when closed */
+  #menuClose:checked ~ #menuLinks {
+    max-height: 0;
+  }
+
+  /* Hide on wider screens */
+  @media (min-width: 768px) {
+    #hamburgerMenu {
+      display: none;
+    }
+  }
 </style>
