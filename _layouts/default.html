@@ -25,18 +25,17 @@
                 label.style.display = 'none'; 
             });
 
-            // Smooth follow on scroll
-            let currentTop = 20; // initial top position
-            let targetTop = 20;
+            // Smooth "floating" effect — easing toward a fixed 20px offset from top of viewport
+            let currentTop = 20; // starting at 20px from top of screen
+            const desiredTop = 20;
 
             function smoothFollow() {
-                targetTop = window.scrollY + 20; // stays 20px from top of viewport
-                currentTop += (targetTop - currentTop) * 0.1; // easing effect
+                currentTop += (desiredTop - currentTop) * 0.1; // easing to fixed 20px
                 menu.style.top = `${currentTop}px`;
                 requestAnimationFrame(smoothFollow);
-            }
+        }
 
-            smoothFollow();
+        smoothFollow();
 
         });
     </script>
