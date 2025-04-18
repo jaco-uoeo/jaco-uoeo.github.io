@@ -1,4 +1,4 @@
-# Collaborative Discussion 1
+# Collaborative Discussion 1: The 4th Industrial Revolution
 
 ## Brief
 
