@@ -9,80 +9,45 @@
 }
 
 #hamburgerMenu {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 1000;
-    font-family: Arial, sans-serif;
-  }
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+}
 
-  #menuToggle {
-    background: #333;
-    color: white;
-    padding: 10px 15px;
-    cursor: pointer;
-    border-radius: 5px;
-    user-select: none;
-  }
+ #menuToggle {
+  background: #333;
+  color: white;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none;
+}
 
-  #menuLabel {
+#menuLabel {
   margin-top: 5px;
   font-weight: bold;
   padding: 5px 10px;
   border-radius: 3px;
   color: white;
+}
+
+ #menuLinks {
+  display: none;
+  margin-top: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 5px;
  }
 
-  #menuLinks {
-    display: none;
-    margin-top: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    border-radius: 5px;
-  }
+#menuLinks a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+  background: #333;
+}
 
-  #menuLinks a {
-    display: block;
-    padding: 10px 15px;
-    text-decoration: none;
-    color: white;
-    background: #333;
-  }
-
-  #menuLinks a:hover {
-    background-color:rgb(90, 91, 97);
-  }
-
-  .bar {
-    height: 3px;
-    width: 100%;
-    background-color: black;
-    position: absolute;
-    left: 0;
-    transition: all 0.3s ease;
-  }
-  
-  .top {
-    top: 0;
-  }
-  
-  .middle {
-    top: 11px;
-  }
-  
-  .bottom {
-    bottom: 0;
-  }
-  
-  #menuToggle.active .top {
-    transform: rotate(45deg);
-    top: 11px;
-  }
-  
-  #menuToggle.active .middle {
-    opacity: 0;
-  }
-  
-  #menuToggle.active .bottom {
-    transform: rotate(-45deg);
-    bottom: 11px;
-  }
+#menuLinks a:hover {
+  background-color:rgb(90, 91, 97);
+}
