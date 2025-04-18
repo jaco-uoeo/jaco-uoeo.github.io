@@ -9,21 +9,35 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-        const toggle = document.getElementById('menuToggle');
-        const links = document.getElementById('menuLinks');
-        const label = document.getElementById('menuLabel');
-        const menu = document.getElementById('hamburgerMenu');
-    
-        toggle.addEventListener('click', function () {
-            const isVisible = links.style.display === 'block';
-            links.style.display = isVisible ? 'none' : 'block';
-            label.style.display = isVisible ? 'none' : 'inline';
-        });
-    
-        menu.addEventListener('mouseleave', function () {
-            links.style.display = 'none';
-            label.style.display = 'none'; 
-        });
+            const toggle = document.getElementById('menuToggle');
+            const links = document.getElementById('menuLinks');
+            const label = document.getElementById('menuLabel');
+            const menu = document.getElementById('hamburgerMenu');
+        
+            toggle.addEventListener('click', function () {
+                const isVisible = links.style.display === 'block';
+                links.style.display = isVisible ? 'none' : 'block';
+                label.style.display = isVisible ? 'none' : 'inline';
+            });
+        
+            menu.addEventListener('mouseleave', function () {
+                links.style.display = 'none';
+                label.style.display = 'none'; 
+            });
+
+            // Smooth follow on scroll
+            let currentTop = 20; // initial top position
+            let targetTop = 20;
+
+            function smoothFollow() {
+                targetTop = window.scrollY + 20; // stays 20px from top of viewport
+                currentTop += (targetTop - currentTop) * 0.1; // easing effect
+                menu.style.top = `${currentTop}px`;
+                requestAnimationFrame(smoothFollow);
+            }
+
+            smoothFollow();
+
         });
     </script>
 
