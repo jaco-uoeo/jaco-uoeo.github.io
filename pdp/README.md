@@ -50,20 +50,18 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 
 [Back to Machine Learning](/machine_learning/)
 
+
 <div id="hamburgerMenu">
-  <!-- Radio buttons -->
-  <input type="radio" name="menuToggle" id="menuOpen" />
-  <input type="radio" name="menuToggle" id="menuClose" checked />
+  <input type="checkbox" id="menuToggle" />
+  <label for="menuToggle" id="menuButton">&#9776;</label>
 
-  <!-- Toggle button -->
-  <label for="menuOpen" id="menuButton">&#9776; <span>MENU</span></label>
-
-  <!-- Menu items -->
-  <div id="menuLinks">
-    <label for="menuClose"><a href="/">Home</a></label>
-    <label for="menuClose"><a href="/machine_learning/">Machine Learning</a></label>
-    <label for="menuClose"><a href="/pdp/">Professional Development Plan</a></label>
-  </div>
+  <nav id="menuArea">
+    <div id="menuLinks">
+      <a href="/">Home</a>
+      <a href="/machine_learning/">Machine Learning</a>
+      <a href="/pdp/">Professional Development Plan</a>
+    </div>
+  </nav>
 </div>
 
 <style>
@@ -75,12 +73,10 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     font-family: Arial, sans-serif;
   }
 
-  /* Hide radio buttons */
-  input[type="radio"] {
+  input[type="checkbox"] {
     display: none;
   }
 
-  /* Menu toggle button */
   #menuButton {
     background: #333;
     color: white;
@@ -96,8 +92,7 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     margin-left: 8px;
   }
 
-  /* Menu links container */
-  #menuLinks {
+  #menuArea {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease-out;
@@ -105,12 +100,6 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     margin-top: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-
-  /* Menu links styling */
-  #menuLinks label {
-    display: block;
-    cursor: pointer;
   }
 
   #menuLinks a {
@@ -124,15 +113,19 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
     background-color: rgb(90, 91, 97);
   }
 
-  /* Show menu when "menuOpen" is selected */
-  #menuOpen:checked ~ #menuButton + #menuLinks,
-  #menuOpen:checked ~ #menuLinks {
+  /* Show menu when checkbox is checked */
+  #menuToggle:checked ~ #menuArea {
     max-height: 500px;
   }
 
-  /* Hide menu when "menuClose" is selected */
-  #menuClose:checked ~ #menuLinks {
+  /* Close menu when not hovered */
+  #hamburgerMenu:not(:hover) input:checked ~ #menuArea {
     max-height: 0;
   }
-  
+
+  @media (min-width: 768px) {
+    #hamburgerMenu {
+      display: none;
+    }
+  }
 </style>
