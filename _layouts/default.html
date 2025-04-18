@@ -19,7 +19,7 @@
             links.style.display = isVisible ? 'none' : 'block';
             label.style.display = isVisible ? 'none' : 'inline';
 
-            this.classList.toggle('active');
+            toggle.innerHTML = isVisible ? '&times;' : '&#9776;'; // ☰ -> ×
         });
     
         menu.addEventListener('mouseleave', function () {
