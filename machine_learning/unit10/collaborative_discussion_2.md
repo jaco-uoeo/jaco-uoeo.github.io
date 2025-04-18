@@ -1,4 +1,4 @@
-# Collaborative Discussion 2: Legal and Ethical views on ANN Applications
+# Collaborative Discussion 2: Legal and Ethical views on ANN Applications {.hidden-title}
 
 ## Brief
 Read/listen to the article by Hutson (2021) in Nature on Robo-writers. This week, post your thoughts on the risks and benefits of the use AI writers at different levels, from administrative work to creative writing.
