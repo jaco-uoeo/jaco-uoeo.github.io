@@ -29,13 +29,15 @@
             let currentOffset = 0;
             const targetOffset = 20;
 
+            window.addEventListener('scroll', animateMenu);
+
             function animateMenu() {
                 currentOffset += (targetOffset - currentOffset) * 0.1;
                 menu.style.transform = `translateY(${currentOffset}px)`;
                 requestAnimationFrame(animateMenu);
             }
 
-            animateMenu();
+            //animateMenu();
         });
     </script>
 
