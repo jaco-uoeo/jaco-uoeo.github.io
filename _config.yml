@@ -4,3 +4,5 @@ plugins:
 
 minima:
   skin: auto
+  nav_pages:
+    - about.md

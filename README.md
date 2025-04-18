@@ -21,7 +21,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 <div style="width: 95%; max-width: 1000px; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
-    <a href="pdp/pdp.md" style="text-decoration: none;">Personal Development Plan</a>
+    <a href="pdp" style="text-decoration: none;">Personal Development Plan</a>
   </h3>
   <p>Explore my Personal Development Plan to see how I’m actively working on my skills, goals, and growth as a professional. Join me on my journey as I continue to learn, improve, and reach new milestones...
   <br/>
@@ -31,6 +31,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 <div id="hamburgerMenu">
   <div id="menuToggle">&#9776;</div>
+   <div id="menuLabel" style="display: none;">Menu</div> 
   <div id="menuLinks">
     <a href="#section1">Section 1</a>
     <a href="#section2">Section 2</a>
@@ -56,10 +57,18 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
     user-select: none;
   }
 
+  #menuLabel {
+  margin-top: 5px;
+  font-weight: bold;
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  color: #333;
+ }
+
   #menuLinks {
     display: none;
     margin-top: 10px;
-    background: white;
     border: 1px solid #ccc;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 5px;
@@ -81,13 +90,12 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
   document.addEventListener('DOMContentLoaded', function () {
     const toggle = document.getElementById('menuToggle');
     const links = document.getElementById('menuLinks');
+    const label = document.getElementById('menuLabel');
 
     toggle.addEventListener('click', function () {
-      if (links.style.display === 'block') {
-        links.style.display = 'none';
-      } else {
-        links.style.display = 'block';
-      }
+        const isVisible = links.style.display === 'block';
+        links.style.display = isVisible ? 'none' : 'block';
+        label.style.display = isVisible ? 'none' : 'block';
     });
   });
 </script>
