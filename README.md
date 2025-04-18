@@ -26,32 +26,3 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 <a href="pdp" style="text-decoration: none; margin-left:10px; float: right;">more</a>
   </p>
 </div>
-
-<div id="hamburgerMenu">
-  <div id="menuToggle">&#9776;<div id="menuLabel" style="display: none;">MENU</div></div>
-  <div id="menuLinks">
-    <a href="/">Home</a>
-    <a href="/machine_learning/">Machine Learning</a>
-    <a href="/pdp/">Professional Development Plan</a>
-  </div>
-</div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const toggle = document.getElementById('menuToggle');
-    const links = document.getElementById('menuLinks');
-    const label = document.getElementById('menuLabel');
-    const menu = document.getElementById('hamburgerMenu');
-
-    toggle.addEventListener('click', function () {
-        const isVisible = links.style.display === 'block';
-        links.style.display = isVisible ? 'none' : 'block';
-        label.style.display = isVisible ? 'none' : 'inline';
-    });
-
-    menu.addEventListener('mouseleave', function () {
-      links.style.display = 'none';
-      label.style.display = 'none'; 
-    });
-  });
-</script>
