@@ -1,4 +1,6 @@
 
+# Machine Learning
+
 Machine learning is a way for computers to learn from data and improve over time without being explicitly programmed. It's a key part of artificial intelligence, helping machines make decisions, recognize patterns, and adapt. This module's overarching learning outcomes included the following elements:
 
 - Identify and evaluate the legal, social, ethical, and professional responsibilities that machine learning practitioners must navigate.
