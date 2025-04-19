@@ -5,3 +5,6 @@ plugins:
 title: MSc Artificial Intelligence ePortfolio
 description: Course Artefacts and Reflections
 math: true
+
+# this is a way tro inject the repo brance we build this site from
+github_branch: main
