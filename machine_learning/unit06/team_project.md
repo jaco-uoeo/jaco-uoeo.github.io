@@ -26,7 +26,7 @@ The project timeline happened to overlap with Ramadan for two team members and a
 
 ## The artefacts created as part of this project
 
-[Our team contract](https://github.com/jaco-uoeo/ml-artefact/raw/refs/heads/main/unit06/artefacts/Team%20Contract%20-%20Group%20One.docx)
+[Our team contract](https://github.com/jaco-uoeo/jaco-uoeo.github.io/raw/refs/heads/main/unit06/artefacts/Team%20Contract%20-%20Group%20One.docx)
 
 My preparitory pre-meeting work: 
 
