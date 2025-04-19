@@ -24,7 +24,8 @@ Converting the asymmetric variables to binary values:
 
 The Jaccard Similarity between two sets \( A \) and \( B \) is given by:
 
-| $$ Jaccard = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} $$ |
+$$ Jaccard = \frac{f_{01} + f_{10}}{f_{01} + f_{10} + f_{11}} $$
+{: .left-aligned }
 
 
 ### Pair 1: Jack vs Mary
