@@ -12,6 +12,11 @@
   display: none;
 }
 
+.centered {
+  display: block; 
+  margin: 0 auto;
+}
+
 #hamburgerMenu {
   position: fixed;
   top: 20px;

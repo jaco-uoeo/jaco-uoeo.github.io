@@ -14,6 +14,7 @@ Your primary objective is to design the neural networks and assess the model's e
 For the final CNN architecture, I focused on creating a stable model with good generalization, building on insights from several intermediary tests. I incorporated batch normalization to ensure smoother training and introduced dropout at key points in the network to prevent overfitting. While it’s generally accepted that batch normalization is applied after the ReLU activation, I found that applying ReLU first and then batch normalization actually gave me slightly better performance in my case—which was a bit surprising, but worth noting.
 
 ![3-block-vgg](vgg_architecture.jpg)
+{: .centered}
 
 ## Reflection
 
