@@ -26,21 +26,21 @@ The project timeline happened to overlap with Ramadan for two team members and a
 
 ## The artefacts created as part of this project
 
-[Our team contract](https://github.com/jaco-uoeo/jaco-uoeo.github.io/raw/refs/heads/main/machine_learning/unit06/artefacts/Team%20Contract%20-%20Group%20One.docx)
+[Our team contract](https://github.com/jaco-uoeo/jaco-uoeo.github.io/raw/refs/heads/{{ site.github_branch }}/machine_learning/unit06/artefacts/Team%20Contract%20-%20Group%20One.docx)
 
 My preparitory pre-meeting work: 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit06/artefacts/UoEO_ML_Group_Project.ipynb)
 
 
 Our team's version 1 combined work:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined.ipynb)
 
 
 Our team's version 2 combined work:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined_02.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined_02.ipynb)
 
 
 

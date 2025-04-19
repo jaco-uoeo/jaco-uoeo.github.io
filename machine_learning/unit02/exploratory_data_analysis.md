@@ -32,7 +32,7 @@ The main tutorial activity for this unit aims to explain the importance and purp
 
 While the notebook contains many issues due to funtionality deprication in the libraries it uses, once these were fixed it is an excellent resource covering a lot of ground on the EDA process. Here's a liink to the notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit02/artefacts/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit02/artefacts/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
 
 
 ### Auto MPG
@@ -47,7 +47,7 @@ This activity required some basic EDA to be performed on the supplied dataset, t
 
 Here's a link to the completed notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit02/artefacts/auto_mpgh.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit02/artefacts/auto_mpgh.ipynb)
 
 ## Reflection
 

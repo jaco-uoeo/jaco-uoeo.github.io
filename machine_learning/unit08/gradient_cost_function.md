@@ -13,7 +13,7 @@ Gradient descent is a method used to minimise the cost function in machine learn
 - Repeat steps 2 and 3 for a predefined number of iterations or until convergence (when the cost function reaches a minimum)
 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit08/artefacts/Ex4%20gradient_descent_cost_function.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit08/artefacts/Ex4%20gradient_descent_cost_function.ipynb)
 
 ## Reflection
 

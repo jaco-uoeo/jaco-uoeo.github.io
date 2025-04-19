@@ -71,22 +71,22 @@ The result looks like this:
 
 ![Polynomial Regression With Widget](polynomial_regression_widget.jpg)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex4%20polynomial_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit03/artefacts/Unit03%20Ex4%20polynomial_regression.ipynb)
 
 Other notebooks reviewed as part of this unit include:
 
 Pearson Correlation 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex1%20covariance_pearson_correlation.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit03/artefacts/Unit03%20Ex1%20covariance_pearson_correlation.ipynb)
 
 Linear Regression
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex2%20linear_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit03/artefacts/Unit03%20Ex2%20linear_regression.ipynb)
 
 
 Multiple Linear Regression
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex3%20multiple_linear_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit03/artefacts/Unit03%20Ex3%20multiple_linear_regression.ipynb)
 
 
 ## Reflection

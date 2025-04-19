@@ -12,7 +12,7 @@ This activity was about learning how to apply regression techniques using Scikit
 
 The Here's a link to the notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit04/artefacts/demo_correlation_regression_fuel_consumption.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit04/artefacts/demo_correlation_regression_fuel_consumption.ipynb)
 
 
 ## Global Population
@@ -25,7 +25,7 @@ Carry out a linear regression analysis where the average population (2001–2021
 
 Here's a link to the completed notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit04/artefacts/global_population.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit04/artefacts/global_population.ipynb)
 
 ## Reflection
 

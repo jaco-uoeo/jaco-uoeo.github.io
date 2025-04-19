@@ -23,7 +23,7 @@ Because of the inherent randomness in the learning process, the metrics can vary
 
 The training results show a clear upward trend in accuracy, starting at approximately 43% and reaching just over 70% by the sixth epoch. Validation accuracy also increased, peaking at around 63.6%. Training loss decreased steadily, indicating effective learning on the training data. However, validation loss began to plateau and slightly increase in the later epochs. This suggests the model may have started to overfit, as performance on the validation set stopped improving.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit09/artefacts/Ex1%20Convolutional%20Neural%20Networks%20(CNN)%20-%20Object%20Recognition.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit09/artefacts/Ex1%20Convolutional%20Neural%20Networks%20(CNN)%20-%20Object%20Recognition.ipynb)
 
 ## Reflection
 

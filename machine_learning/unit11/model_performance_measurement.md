@@ -19,7 +19,7 @@ One point worth noting is that newer versions of Keras have removed or changed s
 
 The notebook can be accesses via colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit11/artefacts/model_Performance_Measurement.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit11/artefacts/model_Performance_Measurement.ipynb)
 
 
 ## Reflection

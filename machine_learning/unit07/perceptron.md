@@ -16,7 +16,7 @@ The completed notebooks can be found on colab.
 
 A gentrle introduction to how a perceptron is constructed. 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit07/Ex1%20simple_perceptron.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/{{ site.github_branch }}/Unit07/Ex1%20simple_perceptron.ipynb)
 
 ### AND Operator
 
@@ -24,7 +24,7 @@ A perceptron that learns the weights and bias to correctly model the logical AND
 
 To see how this would be build using something like scikit-learn, I have added a self-contained implementation with a similar function in the last cell of the notebook. It outputs 1 only when both inputs are 1, mimicking the behavior of the logical AND. This is an example of using a perceptron for binary classification.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit07/Ex2%20perceptron_AND_operator.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/{{ site.github_branch }}/Unit07/Ex2%20perceptron_AND_operator.ipynb)
 
 ### Multi-layer Perceptron
 
@@ -35,7 +35,7 @@ The idea was also implemented using skikit-learn's ```MLPClassifier```:
 ![sigmoid-like](sigmoid_like.jpg)
 {: .centered}
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit07/artefacts/Ex3%20multi-layer%20Perceptron.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit07/artefacts/Ex3%20multi-layer%20Perceptron.ipynb)
 
 ## Reflection
 
