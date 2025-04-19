@@ -35,12 +35,6 @@ While the notebook contains many issues due to funtionality deprication in the l
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit02/artefacts/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
 
 
-A test:
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit02/artefacts/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
-
-
-
 ### Auto MPG
 
 This activity required some basic EDA to be performed on the supplied dataset, the main deliverables were:

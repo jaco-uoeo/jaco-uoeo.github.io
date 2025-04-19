@@ -6,5 +6,5 @@ title: MSc Artificial Intelligence ePortfolio
 description: Course Artefacts and Reflections
 math: true
 
-# this is a way tro inject the repo brance we build this site from
-github_branch: main-test
+# this is a way to inject the repo branch we build this site from
+github_branch: main
