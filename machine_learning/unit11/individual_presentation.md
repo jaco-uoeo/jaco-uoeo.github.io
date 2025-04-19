@@ -27,3 +27,5 @@ Overall, this project helped me better understand not just how CNNs work, but al
 Bibliography
 
 Simonyan, K. and Zisserman, A. (2015) ‘Very Deep Convolutional Networks for Large-Scale Image Recognition’. arXiv. Available at: https://doi.org/10.48550/arXiv.1409.1556. 
+
+[Back to Machine Learning](/machine_learning/)
