@@ -21,4 +21,10 @@ The notebook can be accesses via colab.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit11/model_Performance_Measurement.ipynb)
 
+
+## Reflection
+
+While reviewing a notebook that used sklearn.metrics to evaluate a machine learning model, I found it helpful to see various performance measures applied together. Accuracy gave a general sense of model performance, but precision, recall, and the F1 score provided deeper insights, especially in cases of class imbalance. ROC curves and AUC scores helped assess class distinction. In regression, RMSE, MAE, and R² helped evaluate prediction errors and model fit. I also noted the removal of some built-in metrics in newer Keras versions.
+
 [Back to Machine Learning](/machine_learning/)
+

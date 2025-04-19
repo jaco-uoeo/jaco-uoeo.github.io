@@ -25,4 +25,8 @@ The training results show a clear upward trend in accuracy, starting at approxim
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit09/Ex1%20Convolutional%20Neural%20Networks%20(CNN)%20-%20Object%20Recognition.ipynb)
 
+## Reflection
+
+After reviewing a notebook that implemented a simple CNN on the CIFAR-10 dataset, I gained a deeper understanding of image classification. The dataset, containing 60,000 32x32 color images across 10 categories, was preprocessed by scaling pixel values to a 0–1 range and one-hot encoding the labels. The CNN architecture used a Conv2D layer with ReLU activation, max pooling, a dense hidden layer, and a softmax output layer. Using the Adam optimizer and early stopping, the model showed steady improvement in training accuracy, peaking at 70%. However, validation loss plateaued, indicating potential overfitting. This was a great introduction to the CIFAR-10 dataset, which we will be using for the individual project.
+
 [Back to Machine Learning](/machine_learning/)

@@ -48,4 +48,9 @@ Here's a link to the completed notebook on colab.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit02/auto_mpgh.ipynb)
 
+## Reflection
+
+This week’s focus on Exploratory Data Analysis (EDA) really emphasized how important it is to understand your data before diving into any modeling. It felt a bit like investigative work—looking for patterns, identifying outliers, and getting a clear sense of the dataset’s structure. The tutorial covered key techniques like visualizations, summary statistics, and managing missing data, all of which helped build a stronger understanding of the data. Although the notebook initially had some issues due to deprecated libraries, once those were resolved, it proved to be a very valuable resource. It was also especially useful in our team project, where applying EDA principles gave us a solid foundation for deeper analysis.
+
+
 [Back to Machine Learning](/machine_learning/)

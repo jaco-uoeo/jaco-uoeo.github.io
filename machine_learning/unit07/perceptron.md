@@ -37,4 +37,13 @@ The idea was also implemented using skikit-learn's ```MLPClassifier```:
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit07/Ex3%20multi-layer%20Perceptron.ipynb)
 
+## Reflection
+
+This unit provided a clear introduction to perceptrons and how they function as basic neural networks for classification tasks. The perceptron model itself is simple yet powerful for linear problems. It works by taking input features, applying weights and a bias, and using an activation function to classify data into two categories. This gave me a foundational understanding of how neural networks learn from data, adjusting weights over time to improve predictions.
+
+The activities helped me explore the different applications of perceptrons. In the Simple Perceptron notebook, I got a hands-on understanding of how a perceptron works from the ground up. In the AND Operator exercise, I was able to see how a perceptron can be trained to model a logical AND function, learning weights and bias to make binary classifications. The last task, the Multi-layer Perceptron, was a great way to see how adding layers and adjusting the weights can help the model learn more complex patterns, even though it’s still relatively simple compared to deeper neural networks.
+
+While the perceptron is limited in handling non-linear data, this unit laid the groundwork for more advanced topics in deep learning. I also explored how to implement perceptrons using scikit-learn's MLPClassifier, which helped me see how the concepts I learned can be applied in more practical scenarios.
+
+
 [Back to Machine Learning](/machine_learning/)

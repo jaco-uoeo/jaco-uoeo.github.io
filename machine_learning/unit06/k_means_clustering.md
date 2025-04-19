@@ -35,4 +35,8 @@ K-Means clustering on the Wine dataset produced accurate groupings, with most sa
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit06/k-means-wine.ipynb)
 
+## Reflection
+
+This week’s focus on K-Means clustering helped me understand how unsupervised learning can uncover hidden patterns in data without needing predefined labels. The concept of grouping data points based on similarity—by minimizing the distance to cluster centroids—was straightforward, but seeing it in action really brought it to life. The tutorial on customer segmentation was a great example of how businesses can use clustering to tailor their marketing strategies more effectively. I applied K-Means to both the Iris and Wine datasets. The Iris dataset showed clear groupings aligned with actual species, and the elbow method confirmed that three clusters made sense. Similarly, the Wine dataset produced distinct clusters that mostly reflected the original cultivars. Although there were a few misclassifications, the results were quite consistent overall. This activity also emphasized how initial centroid placement can influence outcomes, which is an important consideration in practical applications.
+
 [Back to Machine Learning](/machine_learning/)

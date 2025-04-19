@@ -60,4 +60,12 @@ Senthamarai Kannan, K., Manoj, K. and Arumugam, S. (2015) ‘Labeling Methods fo
 Wachsmuth, D. and Weisler, A. (2018) ‘Airbnb and the rent gap: Gentrification through the sharing economy’, Environment and Planning A: Economy and Space, 50(6), pp. 1147–1170. Available at: https://doi.org/10.1177/0308518X18778038
 
 
+## Reflection
+
+Working on the Airbnb NYC project was a great opportunity to apply the full data analysis process to a real-world dataset. Using data from Airbnb listings across New York City in 2019, our goal was to explore meaningful business questions and present insights in a way that could inform strategic decisions. One of the key parts of the project for me was leading the initial team coordination. I helped bring everyone together using email and direct messaging, and we eventually set up a WhatsApp group that made communication much easier. We held regular meetings on Monday evenings via Google Meet to accommodate everyone’s availability, especially since the timeline overlapped with both Ramadan and a vacation period for some team members.
+
+My main contributions were focused on the Exploratory Data Analysis (EDA) phase. I worked on cleaning and preparing the data, generating visualizations, and helping the team uncover key patterns that guided our analysis. One particularly interesting challenge was determining the best approach for outlier removal. We compared the Modified Z-Score method with the IQR (Interquartile Range) method to see which was more appropriate for our dataset. This comparison helped us better understand the impact of each method on the results and ensured our analysis was based on reliable data.
+
+Overall, this project gave me a stronger appreciation for how data science can drive business decisions, and it was also a rewarding experience to collaborate with others and navigate the practical challenges of working in a team setting.
+
 [Back to Machine Learning](/machine_learning/)

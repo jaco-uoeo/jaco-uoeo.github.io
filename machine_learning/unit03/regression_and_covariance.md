@@ -36,7 +36,7 @@ So, if you’re planning a 100 km trip, you can estimate:
 
 In summary, covariance gives us a basic sense of whether two variables move together, while regression builds a detailed model of that relationship, allowing us to estimate and predict outcomes. Both are foundational in data analysis and are often used together to understand and communicate trends in data.
 
-### Activities
+## Activities
 
 Some of the activities in this unit's module required changinng some parameters on a notebook to see it's affect, to make it easier to visualise these effects, I've made use if ```ipywidgets``` to make these plots interactive. An example can be seen below.
 
@@ -88,5 +88,12 @@ Linear Regression
 Multiple Linear Regression
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](href=\"https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit03/Unit03%20Ex3%20multiple_linear_regression.ipynb)
+
+
+## Reflection
+
+This part of the module helped me develop a clearer understanding of key statistical concepts like covariance, Pearson’s correlation, and regression. Covariance gave me an initial idea of whether two variables move in the same or opposite direction, but I learned that it doesn’t show the strength or consistency of that relationship. Pearson’s correlation improves on this by standardizing the values, making comparisons across datasets more meaningful.
+
+We also explored regression, which goes further by modeling the relationship and allowing for predictions. Some of the activities involved adjusting parameters in the notebook to observe how different factors influence the model. To make these changes more intuitive and easier to visualize, I incorporated ipywidgets to build interactive plots, which was a helpful way to see how the relationships played out in real time.
 
 [Back to Machine Learning](/machine_learning/)

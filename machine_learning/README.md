@@ -26,8 +26,10 @@ Machine learning is a way for computers to learn from data and improve over time
 - [The Future of Machine Learning](unit12/the_future_of_machine_learning.md)
 
 ## Collaborative activities
-
 - [Collaborative Discussion 1: The 4th Industrial Revolution](unit03/collaborative_discussion_1)
 - [Collaborative Discussion 2: Legal and Ethical views on ANN Applications](unit10/collaborative_discussion_2.md)
 - [Team project: Airbnb Data Science Analysis](unit06/team_project.md)
+
+## Presentations
+- [Individual Presentation](unit11/individual_presentation.md)
 
