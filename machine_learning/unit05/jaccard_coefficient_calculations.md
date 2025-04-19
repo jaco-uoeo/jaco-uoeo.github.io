@@ -11,7 +11,7 @@ The table shows the pathological test results for three individuals, using this 
 | Jim  | M      | Y     | P     | N      | N      | N      | A      |
 
 
-Converting the asymmetric variables to binary values: 
+Converting the asymmetric variables to binary values, let Y & P = 1 and N & A = 0: 
 
 | Name | Gender | Fever | Cough | Test-1 | Test-2 | Test-3 | Test-4 |
 |------|--------|-------|-------|--------|--------|--------|--------|
