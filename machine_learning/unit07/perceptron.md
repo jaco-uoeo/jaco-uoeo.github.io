@@ -35,7 +35,7 @@ The idea was also implemented using skikit-learn's ```MLPClassifier```:
 ![sigmoid-like](sigmoid_like.jpg)
 {: .centered}
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit07/Ex3%20multi-layer%20Perceptron.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit07/artefacts/Ex3%20multi-layer%20Perceptron.ipynb)
 
 ## Reflection
 

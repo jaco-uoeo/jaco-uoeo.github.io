@@ -6,7 +6,7 @@ Regression and covariance are both statistical tools used to explore relationshi
 
 ### Covariance
 
-Covariance measures the direction of the relationship between two variables. If both variables tend to increase or decrease together, the covariance is positive. If one increases while the other decreases, it’s negative. However, covariance doesn’t indicate the strength of the relationship, nor does it standardize the scale—so while it tells us there is a connection, it doesn’t tell us how meaningful or consistent that connection is.
+Covariance measures the direction of the relationship between two variables. If both variables tend to increase or decrease together, the covariance is positive. If one increases while the other decreases, it’s negative. However, covariance doesn’t indicate the strength of the relationship, nor does it standardise the scale—so while it tells us there is a connection, it doesn’t tell us how meaningful or consistent that connection is.
 
 Pearson’s correlation coefficient, often called "Pearson’s r", is a statistical measure that tells us:
 - How strong the relationship is between two variables.
@@ -18,7 +18,7 @@ The value of r ranges from –1 to +1:
 - –1 means a perfect negative linear relationship (as one increases, the other decreases).
 - 0 means no linear relationship.
 
-Pearson’s r is essentially a standardized version of covariance. Covariance depends on the units of the variables. For example, if X is in kilometers and Y is in liters, the covariance will also be in strange combined units (like km·liters), making it hard to interpret or compare across different datasets.
+Pearson’s r is essentially a standardised version of covariance. Covariance depends on the units of the variables. For example, if X is in kilometers and Y is in liters, the covariance will also be in strange combined units (like km·liters), making it hard to interpret or compare across different datasets.
 
 By dividing by the standard deviations, Pearson’s r becomes unitless and always falls within the –1 to +1 range, making it easy to interpret and compare.
 
@@ -71,28 +71,27 @@ The result looks like this:
 
 ![Polynomial Regression With Widget](polynomial_regression_widget.jpg)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit03/Unit03%20Ex4%20polynomial_regression.ipynb)
-
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex4%20polynomial_regression.ipynb)
 
 Other notebooks reviewed as part of this unit include:
 
 Pearson Correlation 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit03/Unit03%20Ex1%20covariance_pearson_correlation.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex1%20covariance_pearson_correlation.ipynb)
 
 Linear Regression
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](href=\"https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit03/Unit03%20Ex2%20linear_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex2%20linear_regression.ipynb)
 
 
 Multiple Linear Regression
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](href=\"https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit03/Unit03%20Ex3%20multiple_linear_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit03/artefacts/Unit03%20Ex3%20multiple_linear_regression.ipynb)
 
 
 ## Reflection
 
-This part of the module helped me develop a clearer understanding of key statistical concepts like covariance, Pearson’s correlation, and regression. Covariance gave me an initial idea of whether two variables move in the same or opposite direction, but I learned that it doesn’t show the strength or consistency of that relationship. Pearson’s correlation improves on this by standardizing the values, making comparisons across datasets more meaningful.
+This part of the module helped me develop a clearer understanding of key statistical concepts like covariance, Pearson’s correlation, and regression. Covariance gave me an initial idea of whether two variables move in the same or opposite direction, but I learned that it doesn’t show the strength or consistency of that relationship. Pearson’s correlation improves on this by standardising the values, making comparisons across datasets more meaningful.
 
 We also explored regression, which goes further by modeling the relationship and allowing for predictions. Some of the activities involved adjusting parameters in the notebook to observe how different factors influence the model. To make these changes more intuitive and easier to visualize, I incorporated ipywidgets to build interactive plots, which was a helpful way to see how the relationships played out in real time.
 

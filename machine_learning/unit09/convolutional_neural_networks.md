@@ -23,10 +23,10 @@ Because of the inherent randomness in the learning process, the metrics can vary
 
 The training results show a clear upward trend in accuracy, starting at approximately 43% and reaching just over 70% by the sixth epoch. Validation accuracy also increased, peaking at around 63.6%. Training loss decreased steadily, indicating effective learning on the training data. However, validation loss began to plateau and slightly increase in the later epochs. This suggests the model may have started to overfit, as performance on the validation set stopped improving.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit09/Ex1%20Convolutional%20Neural%20Networks%20(CNN)%20-%20Object%20Recognition.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit09/artefacts/Ex1%20Convolutional%20Neural%20Networks%20(CNN)%20-%20Object%20Recognition.ipynb)
 
 ## Reflection
 
-After reviewing a notebook that implemented a simple CNN on the CIFAR-10 dataset, I gained a deeper understanding of image classification. The dataset, containing 60,000 32x32 color images across 10 categories, was preprocessed by scaling pixel values to a 0–1 range and one-hot encoding the labels. The CNN architecture used a Conv2D layer with ReLU activation, max pooling, a dense hidden layer, and a softmax output layer. Using the Adam optimizer and early stopping, the model showed steady improvement in training accuracy, peaking at 70%. However, validation loss plateaued, indicating potential overfitting. This was a great introduction to the CIFAR-10 dataset, which we will be using for the individual project.
+After reviewing a notebook that implemented a simple CNN on the CIFAR-10 dataset, I gained a deeper understanding of image classification. The dataset, containing 60,000 32x32 color images across 10 categories, was preprocessed by scaling pixel values to a 0–1 range and one-hot encoding the labels. The CNN architecture used a Conv2D layer with ReLU activation, max pooling, a dense hidden layer, and a softmax output layer. Using the Adam optimiser and early stopping, the model showed steady improvement in training accuracy, peaking at 70%. However, validation loss plateaued, indicating potential overfitting. This was a great introduction to the CIFAR-10 dataset, which we will be using for the individual project.
 
 [Back to Machine Learning](/machine_learning/)

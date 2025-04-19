@@ -14,9 +14,9 @@ The main goals of EDA are to:
 
 Common EDA techniques:
 - Descriptive statistics: Mean, median, standard deviation, etc.
-- Data visualization: Histograms, scatter plots, box plots, correlation heatmaps
+- Data visualisation: Histograms, scatter plots, box plots, correlation heatmaps
 - Handling missing data and checking data types
-- Grouping and summarizing data (e.g., average fuel use per car model)
+- Grouping and summarising data (e.g., average fuel use per car model)
 
 Example (fuel and driving data):
 If you had a dataset of car trips, EDA might involve:
@@ -28,11 +28,12 @@ If you had a dataset of car trips, EDA might involve:
 ## Activities
 
 ### Tutorial
-The main tutorial activity for this unit aims to explain the importance and purpose of EDA in data science and machine learning projects. It emphasizes that skipping EDA leads to poor outcomes, while doing it well ensures that your data is valid, meaningful, and ready for machine learning. It also outlines some key methods and concepts used in EDA, such as visualizations, summary statistics, and data profiling.
+The main tutorial activity for this unit aims to explain the importance and purpose of EDA in data science and machine learning projects. It emphasises that skipping EDA leads to poor outcomes, while doing it well ensures that your data is valid, meaningful, and ready for machine learning. It also outlines some key methods and concepts used in EDA, such as visualisations, summary statistics, and data profiling.
 
 While the notebook contains many issues due to funtionality deprication in the libraries it uses, once these were fixed it is an excellent resource covering a lot of ground on the EDA process. Here's a liink to the notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit02/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit02/artefacts/Unit02%20A%20Tutorial%20on%20Exploratory%20Data%20Analysis.ipynb)
+
 
 ### Auto MPG
 
@@ -46,11 +47,11 @@ This activity required some basic EDA to be performed on the supplied dataset, t
 
 Here's a link to the completed notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit02/auto_mpgh.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit02/artefacts/auto_mpgh.ipynb)
 
 ## Reflection
 
-This week’s focus on Exploratory Data Analysis (EDA) really emphasized how important it is to understand your data before diving into any modeling. It felt a bit like investigative work—looking for patterns, identifying outliers, and getting a clear sense of the dataset’s structure. The tutorial covered key techniques like visualizations, summary statistics, and managing missing data, all of which helped build a stronger understanding of the data. Although the notebook initially had some issues due to deprecated libraries, once those were resolved, it proved to be a very valuable resource. It was also especially useful in our team project, where applying EDA principles gave us a strong foundation for deeper analysis.
+This week’s focus on Exploratory Data Analysis (EDA) really emphasised how important it is to understand your data before diving into any modeling. It felt a bit like investigative work—looking for patterns, identifying outliers, and getting a clear sense of the dataset’s structure. The tutorial covered key techniques like visualisations, summary statistics, and managing missing data, all of which helped build a stronger understanding of the data. Although the notebook initially had some issues due to deprecated libraries, once those were resolved, it proved to be a very valuable resource. It was also especially useful in our team project, where applying EDA principles gave us a strong foundation for deeper analysis.
 
 
 [Back to Machine Learning](/machine_learning/)

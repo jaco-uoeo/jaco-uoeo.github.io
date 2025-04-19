@@ -2,7 +2,7 @@
 {: .hidden-title }
 
 ## Overview
-Airbnb has enabled personalized travel experiences since 2008. This assignment uses the AB_NYC_2019.csv dataset from Kaggle, which covers Airbnb listings across New York City in 2019. It includes host details, geographic information, and various metrics useful for analysis and prediction.
+Airbnb has enabled personalised travel experiences since 2008. This assignment uses the AB_NYC_2019.csv dataset from Kaggle, which covers Airbnb listings across New York City in 2019. It includes host details, geographic information, and various metrics useful for analysis and prediction.
 
 **Objective:**
 Apply data science methods to explore meaningful business questions related to Airbnb’s operations. Your work should demonstrate the full data analytics process—from data cleaning and exploration to analysis and reporting—focused on solving a non-trivial, practical problem.
@@ -11,10 +11,10 @@ Apply data science methods to explore meaningful business questions related to A
 Formulate a relevant analytical question that adds value to Airbnb. For example: Are booking trends significantly different across neighborhoods, and why?
 
 **Task 2** – Data Analysis:
-Use appropriate techniques to answer your chosen question. This may include EDA, data preprocessing, statistical analysis, visualization, and unsupervised learning (e.g., clustering).
+Use appropriate techniques to answer your chosen question. This may include EDA, data preprocessing, statistical analysis, visualisation, and unsupervised learning (e.g., clustering).
 
 **Task 3** – Report:
-Create a clear, 1000-word analytical report suitable for Airbnb executives. Include meaningful visualizations and explain your findings in a business-focused, accessible manner.
+Create a clear, 1000-word analytical report suitable for Airbnb executives. Include meaningful visualisations and explain your findings in a business-focused, accessible manner.
 
 ## Team coordination activities
 
@@ -30,17 +30,17 @@ The project timeline happened to overlap with Ramadan for two team members and a
 
 My preparitory pre-meeting work: 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/team_project/UoEO_ML_Group_Project.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project.ipynb)
 
 
 Our team's version 1 combined work:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/team_project/UoEO_ML_Group_Project_Combined.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined.ipynb)
 
 
 Our team's version 2 combined work:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/team_project/UoEO_ML_Group_Project_Combined_02.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit06/artefacts/UoEO_ML_Group_Project_Combined_02.ipynb)
 
 
 
@@ -64,7 +64,7 @@ Wachsmuth, D. and Weisler, A. (2018) ‘Airbnb and the rent gap: Gentrification 
 
 Working on the Airbnb NYC project was a great opportunity to apply the full data analysis process to a real-world dataset. Using data from Airbnb listings across New York City in 2019, our goal was to explore meaningful business questions and present insights in a way that could inform strategic decisions. One of the key parts of the project for me was leading the initial team coordination. I helped bring everyone together using email and direct messaging, and we eventually set up a WhatsApp group that made communication much easier. We held regular meetings on Monday evenings via Google Meet to accommodate everyone’s availability, especially since the timeline overlapped with both Ramadan and a vacation period for some team members.
 
-My main contributions were focused on the Exploratory Data Analysis (EDA) phase. I worked on cleaning and preparing the data, generating visualizations, and helping the team uncover key patterns that guided our analysis. One particularly interesting challenge was determining the best approach for outlier removal. We compared the Modified Z-Score method with the IQR (Interquartile Range) method to see which was more appropriate for our dataset. This comparison helped us better understand the impact of each method on the results and ensured our analysis was based on reliable data.
+My main contributions were focused on the Exploratory Data Analysis (EDA) phase. I worked on cleaning and preparing the data, generating visualisations, and helping the team uncover key patterns that guided our analysis. One particularly interesting challenge was determining the best approach for outlier removal. We compared the Modified Z-Score method with the IQR (Interquartile Range) method to see which was more appropriate for our dataset. This comparison helped us better understand the impact of each method on the results and ensured our analysis was based on reliable data.
 
 Overall, this project gave me a stronger appreciation for how data science can drive business decisions, and it was also a rewarding experience to collaborate with others and navigate the practical challenges of working in a team setting.
 

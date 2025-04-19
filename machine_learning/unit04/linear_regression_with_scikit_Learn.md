@@ -12,7 +12,7 @@ This activity was about learning how to apply regression techniques using Scikit
 
 The Here's a link to the notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit04/demo_correlation_regression_fuel_consumption.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit04/artefacts/demo_correlation_regression_fuel_consumption.ipynb)
 
 
 ## Global Population
@@ -25,10 +25,10 @@ Carry out a linear regression analysis where the average population (2001–2021
 
 Here's a link to the completed notebook on colab.
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/main/Unit04/global_population.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/main/machine_learning/unit04/artefacts/global_population.ipynb)
 
 ## Reflection
 
-Working through this activity really helped me get a better grasp of how linear regression works using Scikit-Learn. In Task A, I focused on cleaning and preparing the data, then looked at how average population and GDP per capita were related. Creating visualizations and calculating the Pearson Correlation Coefficient gave me a clearer sense of the strength of that relationship. In Task B, I applied linear regression, using population to predict GDP per capita. It showed me how useful this method is when there's a clear linear trend between variables. We also touched on nonlinear models, which helped me understand when linear regression might not be the best choice.
+Working through this activity really helped me get a better grasp of how linear regression works using Scikit-Learn. In Task A, I focused on cleaning and preparing the data, then looked at how average population and GDP per capita were related. Creating visualisations and calculating the Pearson Correlation Coefficient gave me a clearer sense of the strength of that relationship. In Task B, I applied linear regression, using population to predict GDP per capita. It showed me how useful this method is when there's a clear linear trend between variables. We also touched on nonlinear models, which helped me understand when linear regression might not be the best choice.
 
 [Back to Machine Learning](/machine_learning/)
