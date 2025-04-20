@@ -3,7 +3,7 @@
 
 ## Overview
 
-K-means clustering is a way to automatically group similar items in a dataset without needing labels. You start by picking how many groups (or "clusters") you want. The algorithm places some starting points (called centroids), then sorts the data into groups based on which centroid each point is closest to. It keeps adjusting the centroids and regrouping the data until things settle. It’s a simple but powerful tool for spotting patterns—like grouping customers by behavior or organising images by similarity. Just keep in mind that results can vary depending on where those starting points are placed.
+K-means clustering is a way to automatically group similar items in a dataset without needing labels. You start by picking how many groups (or "clusters") you want. The algorithm places some starting points (called centroids), then sorts the data into groups based on which centroid each point is closest to. It keeps adjusting the centroids and regrouping the data until things settle. It’s a simple but powerful tool for spotting patterns—like grouping customers by behaviour or organising images by similarity. Just keep in mind that results can vary depending on where those starting points are placed.
 
 ## Activities
 

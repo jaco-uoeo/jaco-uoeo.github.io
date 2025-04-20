@@ -5,7 +5,7 @@
 
 ### Assignment Topic: Neural Network Models for Object Recognition
 
-You are tasked with developing a Neural Network using the CIFAR-10 image dataset for object recognition. Available on Kaggle and directly through keras-datasets, CIFAR-10 is a renowned dataset tailored for visual recognition tasks. It is derived from the "80 million tiny images" dataset and comprises 60,000 colored images, each 32x32 pixels, distributed across 10 distinct object categories with 6,000 images for each category. 
+You are tasked with developing a Neural Network using the CIFAR-10 image dataset for object recognition. Available on Kaggle and directly through keras-datasets, CIFAR-10 is a renowned dataset tailored for visual recognition tasks. It is derived from the "80 million tiny images" dataset and comprises 60,000 coloured images, each 32x32 pixels, distributed across 10 distinct object categories with 6,000 images for each category. 
 
 Your primary objective is to design the neural networks and assess the model's efficacy. 
 

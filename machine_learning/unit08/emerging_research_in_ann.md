@@ -7,7 +7,7 @@ In reflecting on the 2019 snapshot paper from Centre of Data Ethics and Innovati
 
 Another issue is transparency. Many AI models are complex and difficult to explain, so customers might not understand why a claim was denied or why their premium went up. This can lead to frustration and a lack of trust.
 
-Then there's the matter of influence. AI can be used to guide or "nudge" people toward safer or healthier behavior, which sounds good — but if done without consent, it could feel intrusive or manipulative.
+Then there's the matter of influence. AI can be used to guide or "nudge" people toward safer or healthier behaviour, which sounds good — but if done without consent, it could feel intrusive or manipulative.
 
 Finally, if something goes wrong, who’s responsible — the insurer or the tech? As the industry continues adopting AI, it will need to strike a balance: using these tools to improve services while being fair, transparent, and respectful of people’s rights.
 

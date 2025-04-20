@@ -93,6 +93,6 @@ Multiple Linear Regression
 
 This part of the module helped me develop a clearer understanding of key statistical concepts like covariance, Pearson’s correlation, and regression. Covariance gave me an initial idea of whether two variables move in the same or opposite direction, but I learned that it doesn’t show the strength or consistency of that relationship. Pearson’s correlation improves on this by standardising the values, making comparisons across datasets more meaningful.
 
-We also explored regression, which goes further by modeling the relationship and allowing for predictions. Some of the activities involved adjusting parameters in the notebook to observe how different factors influence the model. To make these changes more intuitive and easier to visualize, I incorporated ipywidgets to build interactive plots, which was a helpful way to see how the relationships played out in real time.
+We also explored regression, which goes further by modeling the relationship and allowing for predictions. Some of the activities involved adjusting parameters in the notebook to observe how different factors influence the model. To make these changes more intuitive and easier to visualise, I incorporated ipywidgets to build interactive plots, which was a helpful way to see how the relationships played out in real time.
 
 [Back to Machine Learning](/machine_learning/)

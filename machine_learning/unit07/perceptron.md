@@ -14,7 +14,7 @@ The completed notebooks can be found on colab.
 
 ### Simple Perceptron
 
-A gentrle introduction to how a perceptron is constructed. 
+A gentle introduction to how a perceptron is constructed. 
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/{{ site.github_branch }}/Unit07/Ex1%20simple_perceptron.ipynb)
 
@@ -22,7 +22,7 @@ A gentrle introduction to how a perceptron is constructed.
 
 A perceptron that learns the weights and bias to correctly model the logical AND function.
 
-To see how this would be build using something like scikit-learn, I have added a self-contained implementation with a similar function in the last cell of the notebook. It outputs 1 only when both inputs are 1, mimicking the behavior of the logical AND. This is an example of using a perceptron for binary classification.
+To see how this would be build using something like scikit-learn, I have added a self-contained implementation with a similar function in the last cell of the notebook. It outputs 1 only when both inputs are 1, mimicking the behaviour of the logical AND. This is an example of using a perceptron for binary classification.
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/ml-artefact/blob/{{ site.github_branch }}/Unit07/Ex2%20perceptron_AND_operator.ipynb)
 

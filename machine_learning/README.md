@@ -1,12 +1,12 @@
 
 # Machine Learning
 
-Machine learning is a way for computers to learn from data and improve over time without being explicitly programmed. It's a key part of artificial intelligence, helping machines make decisions, recognize patterns, and adapt. This module's overarching learning outcomes included the following elements:
+Machine learning is a way for computers to learn from data and improve over time without being explicitly programmed. It's a key part of artificial intelligence, helping machines make decisions, recognise patterns, and adapt. This module's overarching learning outcomes included the following elements:
 
 - Identify and evaluate the legal, social, ethical, and professional responsibilities that machine learning practitioners must navigate.
 - Assess the suitability and limitations of various datasets when applying machine learning algorithms.
 - Implement and thoughtfully evaluate machine learning methods in real-world scenarios, especially those involving uncertainty or technical risks.
-- Build and apply collaborative skills to contribute effectively within a remote development team, embracing realistic team dynamics and organizational structures.
+- Build and apply collaborative skills to contribute effectively within a remote development team, embracing realistic team dynamics and organisational structures.
 
 ## Technical activities
 

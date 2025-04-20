@@ -5,7 +5,7 @@
 
 After reviewing a notebook that implemented a simple CNN using the CIFAR-10 dataset, I gained a clearer understanding of the typical steps involved in image classification tasks. 
 
-The dataset, loaded directly from Keras, included 60,000 32x32 color images across 10 categories. The notebook began by examining the dataset’s shape and structure, which helped contextualise the input format. Pixel values were scaled to a 0–1 range to normalise the data, and class labels were one-hot encoded for compatibility with the softmax output layer. A validation set was also set aside from the training data to evaluate model performance during training. 
+The dataset, loaded directly from Keras, included 60,000 32x32 colour images across 10 categories. The notebook began by examining the dataset’s shape and structure, which helped contextualise the input format. Pixel values were scaled to a 0–1 range to normalise the data, and class labels were one-hot encoded for compatibility with the softmax output layer. A validation set was also set aside from the training data to evaluate model performance during training. 
 
 The CNN architecture was kept simple, using a Conv2D layer with ReLU activation, followed by max pooling, a dense hidden layer with 256 units, and a final softmax output layer. The model was compiled with the Adam optimiser and trained with early stopping enabled, which helped prevent overfitting by monitoring validation loss.
 
@@ -27,6 +27,6 @@ The training results show a clear upward trend in accuracy, starting at approxim
 
 ## Reflection
 
-After reviewing a notebook that implemented a simple CNN on the CIFAR-10 dataset, I gained a deeper understanding of image classification. The dataset, containing 60,000 32x32 color images across 10 categories, was preprocessed by scaling pixel values to a 0–1 range and one-hot encoding the labels. The CNN architecture used a Conv2D layer with ReLU activation, max pooling, a dense hidden layer, and a softmax output layer. Using the Adam optimiser and early stopping, the model showed steady improvement in training accuracy, peaking at 70%. However, validation loss plateaued, indicating potential overfitting. This was a great introduction to the CIFAR-10 dataset, which we will be using for the individual project.
+After reviewing a notebook that implemented a simple CNN on the CIFAR-10 dataset, I gained a deeper understanding of image classification. The dataset, containing 60,000 32x32 colour images across 10 categories, was preprocessed by scaling pixel values to a 0–1 range and one-hot encoding the labels. The CNN architecture used a Conv2D layer with ReLU activation, max pooling, a dense hidden layer, and a softmax output layer. Using the Adam optimiser and early stopping, the model showed steady improvement in training accuracy, peaking at 70%. However, validation loss plateaued, indicating potential overfitting. This was a great introduction to the CIFAR-10 dataset, which we will be using for the individual project.
 
 [Back to Machine Learning](/machine_learning/)

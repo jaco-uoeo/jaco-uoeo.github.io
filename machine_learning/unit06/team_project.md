@@ -8,7 +8,7 @@ Airbnb has enabled personalised travel experiences since 2008. This assignment u
 Apply data science methods to explore meaningful business questions related to Airbnb’s operations. Your work should demonstrate the full data analytics process—from data cleaning and exploration to analysis and reporting—focused on solving a non-trivial, practical problem.
 
 **Task 1** – Business Question:
-Formulate a relevant analytical question that adds value to Airbnb. For example: Are booking trends significantly different across neighborhoods, and why?
+Formulate a relevant analytical question that adds value to Airbnb. For example: Are booking trends significantly different across neighbourhoods, and why?
 
 **Task 2** – Data Analysis:
 Use appropriate techniques to answer your chosen question. This may include EDA, data preprocessing, statistical analysis, visualisation, and unsupervised learning (e.g., clustering).
@@ -28,7 +28,7 @@ The project timeline happened to overlap with Ramadan for two team members and a
 
 [Our team contract](https://github.com/jaco-uoeo/jaco-uoeo.github.io/raw/refs/heads/{{ site.github_branch }}/machine_learning/unit06/artefacts/Team%20Contract%20-%20Group%20One.docx)
 
-My preparitory pre-meeting work: 
+My preparatory pre-meeting work: 
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaco-uoeo/jaco-uoeo.github.io/blob/{{ site.github_branch }}/machine_learning/unit06/artefacts/UoEO_ML_Group_Project.ipynb)
 
