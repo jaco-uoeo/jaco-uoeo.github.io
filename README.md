@@ -19,6 +19,16 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 <div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
+    <a href="krr" style="text-decoration: none;">Knowledge Representation and Reasoning</a>
+  </h3>
+  <p>Knowledge Representation and Reasoning (KRR) is about how intelligent systems can represent information about the world and use that knowledge to make informed decisions. It’s a core aspect of artificial intelligence, enabling machines to reason logically, solve problems, and understand complex relationships. This module explores key concepts, formal frameworks, and practical tools used to model and manipulate knowledge, with a focus on both theoretical foundations and real-world applications in AI systems...
+  <br/>
+  <a href="krr" style="text-decoration: none; margin-left:10px; float: right;">more</a>
+  </p>
+</div>
+
+<div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
+  <h3 style="margin-top: 0;">
     <a href="pdp" style="text-decoration: none;">Personal Development Plan</a>
   </h3>
   <p>Explore my Personal Development Plan to see how I’m actively working on my skills, goals, and growth as a professional. Join me on my journey as I continue to learn, improve, and reach new milestones...
