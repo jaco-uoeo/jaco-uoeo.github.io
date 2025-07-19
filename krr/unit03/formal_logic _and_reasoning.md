@@ -1,4 +1,5 @@
-# TODO - Formal Logic and Reasoning in Artificial Intelligence
+# Formal Logic and Reasoning in Artificial Intelligence
+{: .hidden-title }
 
 ## Activity 1: Formal Logic Puzzles
 
@@ -121,7 +122,6 @@ Only asking question `t` resolves the ambiguity.
 This task involved analyzing a “crossing problem” from the **Palomino et al. (2005)** paper (as discussed in Lecturecast), and expressing each state using **First-Order Logic**.
 
 
-
 ### Problem Overview
 
 The setup involves four entities needing to cross a river:
@@ -161,6 +161,9 @@ Left(F) ∧ Left(W) ∧ Left(C) ∧ Right(G)
 **State S3:** Farmer crosses again with cabbage
 Right(F) ∧ Left(W) ∧ Right(C) ∧ Right(G)
 
+### References
+
+Palomino, M., Martí-Oliet, N. and Verdejo, A. (2005) ‘Playing with Maude’, Electronic Notes in Theoretical Computer Science, 124(1), pp. 3–23. Available at: https://doi.org/10.1016/j.entcs.2004.07.012.
 
 
 ### Reflections

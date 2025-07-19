@@ -9,10 +9,15 @@ I engaged with various tools and methodologies that not only deepened my underst
 
 - [Sets, Set Theory, Truth Tables and Logic](unit02/sets_an_truthtables.md)
 - [Formal Logic and Reasoning in Artificial Intelligence](unit03/formal_logic%20_and_reasoning.md)
+- [Introduction to Logic Programming](unit04/intro_to_logic_programming.md)
+- [Guided Tutorial: A Practical Guide to Building OWL Ontologies](unit08/ontology_development.md)
+- [Guided Tutorial: A Practical Guide to Building OWL Ontologies: Take 2](unit10/ontology_development_take_2.md)
+
 ## Analysis and Reflection-based activities
 - [Knowing vs. Having Information](unit01/knowing_vs_having_info.md)
-- [Ontology Evaluation](unit11/ontology_evaluation.md)
 - [Exploring the Knowledge-Based Economy](unit05/knowledge_based_economies.md)
+- [Strategies for Developing Ontologies](unit06/strategies_for_developing_ontologies.md)
+- [Ontology Evaluation](unit11/ontology_evaluation.md)
 
 ## Collaborative activities
 - [Collaborative Discussion 1: The Emergence of Knowledge Representation in Computing](unit03/collaborative_discussion_1)

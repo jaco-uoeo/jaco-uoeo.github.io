@@ -1,4 +1,5 @@
 # Ontology Evaluation
+{: .hidden-title }
 
 ## Introduction
 

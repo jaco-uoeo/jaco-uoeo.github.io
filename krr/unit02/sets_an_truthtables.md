@@ -1,4 +1,5 @@
 # Sets, Set Theory, Truth Tables and Logic
+{: .hidden-title }
 
 ### Seminar Activity Summary
 
@@ -101,7 +102,7 @@ These two are logically equivalent because OR is associative.
 | F | F | T | T     | T           | F     | T           |
 | F | F | F | F     | F           | F     | F           |
 
-**4. (P → Q) ∧ (Q → P)**
+**4. **
 
 This is the logical equivalence (biconditional) P ↔ Q.
 

@@ -1,4 +1,5 @@
 # Exploring the Knowledge-Based Economy
+{: .hidden-title }
 
 ## Introduction
 These activities explore how knowledge shapes different fields, from economics to advanced technology. The first activity looks at the idea of a knowledge-based economy, focusing on how data, innovation, and human skills drive growth and development. The second activity examines a technical system, Tree-GPT, which uses a structured knowledge base to improve the analysis of forest data through AI.
