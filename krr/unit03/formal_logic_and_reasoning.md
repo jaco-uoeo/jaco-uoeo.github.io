@@ -173,3 +173,5 @@ This activity demonstrated how logical representation can clarify dynamic proble
 Through these activities, I strengthened my ability to translate natural-language problems into formal logic. Each puzzle showcased different aspects of reasoning—from uncovering contradictions to designing truth-preserving questions and modeling complex state transitions.
 
 These foundational skills are directly applicable to areas such as knowledge representation, planning, and automated reasoning—core areas of artificial intelligence.
+
+[Back to Knowledge Representation and Reasoning](/krr)

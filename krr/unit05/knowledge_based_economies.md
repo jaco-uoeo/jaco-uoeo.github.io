@@ -22,7 +22,7 @@ A key point made is that knowledge now holds more value than labour or materials
 The article presents the knowledge-based economy as a modern, forward-looking approach. It shows how countries can prepare for the future by investing in people, ideas, and digital tools. The case of the UAE provides a real-world example of how this transformation can occur.
 
 
-References
+#### References
 
 El Khatib, M.M. et al. (2023) ‘Dubai Smart City as a Knowledge Based Economy’, in The Effect of Information Technology on Business and Marketing Intelligence Systems. Springer, Cham, pp. 1657–1672. Available at: https://doi.org/10.1007/978-3-031-12382-5_90.
 
@@ -42,5 +42,6 @@ Using the knowledge base, Tree-GPT then generates accurate and context-aware cod
 
 Overall, the knowledge base in Tree-GPT acts as both a reference library and a guiding framework. It allows the AI to move beyond generic language understanding and perform specialised tasks with expert-level knowledge. This integration of a knowledge base with a large language model is key to making Tree-GPT a powerful tool for forest remote sensing analysis, combining the strengths of data-driven AI and domain expertise to support interactive and accurate forest monitoring.
 
-References
+#### References
+
 Du, S.Q. et al. (2023) ‘Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis’, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1-W2-2023, pp. 1729–1736. Available at: https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-1729-2023.
