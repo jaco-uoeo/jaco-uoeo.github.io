@@ -58,7 +58,7 @@ Gruber, T. R. (1993). A translation approach to portable ontology specifications
 
 Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
 
-Smith, B. C. (2004). The foundations of computing. In L. Floridi (Ed.), The Blackwell guide to the philosophy of computing and information (pp. 17–32). Blackwell Publishing.
+Smith, B. C. (2004). The foundations of computing. In L. Floridi Constructing these truth tables helps in visualising how different logical operators behave and when compound statements are true or false. It is especially useful for understanding logical equivalences, like the contrapositive relation between P → Q and (¬Q) → (¬P). This foundational knowledge supports more complex reasoning tasks and is directly applicable in knowledge representation, automated reasoning, and artificial intelligence.(Ed.), The Blackwell guide to the philosophy of computing and information (pp. 17–32). Blackwell Publishing.
 [Back to the top](#)
 
 ### Peer response 2

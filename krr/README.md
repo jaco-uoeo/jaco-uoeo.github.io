@@ -22,7 +22,3 @@ I engaged with various tools and methodologies that not only deepened my underst
 ## Collaborative activities
 - [Collaborative Discussion 1: The Emergence of Knowledge Representation in Computing](unit03/collaborative_discussion_1)
 - [Collaborative Discussion 2: Exploring Ontologies and Their Representation Languages](unit11/collaborative_discussion_2.md)
-
-## Assessments
-- [Individual Presentation](unit11/individual_presentation.md)
-

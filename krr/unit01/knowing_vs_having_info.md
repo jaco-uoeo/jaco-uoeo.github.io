@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This activity focuses on distinguishing between *knowing* something and simply *having information* about it. Based on an exercise from Kendal and Creen’s *Introduction to Knowledge Engineering* (2007), it highlights the importance of how information is processed and used. In knowledge engineering, this distinction is critical because intelligent systems need to do more than store data—they must interpret and apply it effectively.
+This activity focuses on distinguishing between *knowing* something and simply *having information* about it. Based on an exercise from Kendal and Creen’s *Introduction to Knowledge Engineering* (2007), it highlights the importance of how information is processed and used. In knowledge engineering, this distinction is critical because intelligent systems need to do more than store data, they must interpret and apply it effectively.
 
 
 
@@ -41,8 +41,7 @@ The primary distinction between *knowing* and *having information* lies in the a
 Kendal and Creen (2007) describe knowledge as enabling intelligent action, emphasizing that knowledge-based systems require more than data storage—they need reasoning capabilities.
 
 
-
-## Conclusion
+## Reflection
 
 This exercise underscores the difference between information and knowledge, an essential concept in knowledge representation. Effective intelligent systems must be able to move beyond data collection to interpret and act upon information in meaningful ways.
 

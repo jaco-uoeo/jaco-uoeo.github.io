@@ -1,4 +1,5 @@
 # Guided Tutorial: A Practical Guide to Building OWL Ontologies: Take 2
+{: .hidden-title }
 
 ## Introduction
 In this activity, I extended the pizza ontology [I previously built](../unit08/ontology_development.md) in Protégé by exploring more advanced OWL concepts such as universal restrictions, automated classification with open world reasoning, and enumerated classes. This allowed me to deepen the model by adding constraints that specify not just the existence of some relationships but also restrictions on all relationships. I also learned about how the OWL reasoner classifies classes under the Open World Assumption and how that affects inferred hierarchies. Finally, I worked with enumerated classes to define sets of individuals explicitly.

@@ -1,4 +1,5 @@
 # Guided Tutorial: A Practical Guide to Building OWL Ontologies
+{: .hidden-title }
 
 ## Introduction
 
