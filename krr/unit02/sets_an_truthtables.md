@@ -121,6 +121,7 @@ Constructing these truth tables helps in visualising how different logical opera
 
 
 ### References
-Sharma, G., Lo, N. and Pilling, G. (no date) Truth Tables. Available at: https://brilliant.org/wiki/truth-tables/ (Accessed: 6 May 2025).
+
+Sharma, G. et al. (no date) Truth Tables. Available at: https://brilliant.org/wiki/truth-tables/ (Accessed: 6 May 2025).
 
 [Back to Knowledge Representation and Reasoning](/krr)
