@@ -24,7 +24,7 @@ Given this definition, the most suitable language for expressing ontologies on t
 OWL2 strikes a good balance between expressiveness and practicality for web-based agents. That could make it a good choice for real-world applications of ontologies on the Semantic Web.
 
 
-References
+#### References
 
 Berners-Lee, T., Hendler, J. and Lassila, O. (2001) ‘The Semantic Web: A New Form of Web Content That is Meaningful to Computers Will Unleash a Revolution of New Possibilities’, Scientific American [Preprint]. Available at: https://www.researchgate.net/publication/225070375_The_Semantic_Web_A_New_Form_of_Web_Content_That_is_Meaningful_to_Computers_Will_Unleash_a_Revolution_of_New_Possibilities (Accessed: 3 July 2025).
 
@@ -46,7 +46,7 @@ Ontologies systematically organise domain knowledge through the precise definiti
 
 Your stance on OWL2 as the most suitable language for semantic web ontologies is equally justified. OWL2, a W3C-endorsed standard grounded in Description Logics, balances expressive power with computational practicality. Its compatibility with RDF enhances interoperability and enables powerful, decidable reasoning capabilities, essential for tasks like ontology alignment, data integration, and semantic web applications such as DBpedia (Nasim, 2022; UoEO, n.d.). Thus, OWL2 emerges clearly as the most robust, interoperable, and widely adopted language, ensuring effective, scalable semantic modelling across web-based platforms.
 
-References
+#### References
 
 Guarino, N., Oberle, D. and Staab, S. (2009). Handbook on Ontologies. Springer, Berlin.
 
@@ -76,7 +76,7 @@ It has expressive power and logical soundness, but it is not web-native, not wid
 
 To sum up, in my view compared to RDF, OWL-Lite, and KIF, OWL2 is indeed the most useful language to express ontologies that can be by software agents on www.
 
-References
+#### References
 
 Brockmans, S., Haase, P., Serafini, L., & Stuckenschmidt, H. (2009). Formal and Conceptual Comparison of Ontology Mapping Languages. In H. Stuckenschmidt, C. Parent, & S. Spaccapietra, Modular Ontologies. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer.
 
@@ -102,7 +102,7 @@ The second response also supports the conclusion on OWL2 but adds useful context
 Together, the responses expand on the original points, confirming the value of ontologies for knowledge representation and underscoring OWL2 as the most effective language for semantic web technologies.
 
  
-References
+#### References
  
 
 Berners-Lee, T., Hendler, J. and Lassila, O. (2001) ‘The Semantic Web: A New Form of Web Content That is Meaningful to Computers Will Unleash a Revolution of New Possibilities’, Scientific American [Preprint]. Available at: https://www.researchgate.net/publication/225070375_The_Semantic_Web_A_New_Form_of_Web_Content_That_is_Meaningful_to_Computers_Will_Unleash_a_Revolution_of_New_Possibilities (Accessed: 3 July 2025).
