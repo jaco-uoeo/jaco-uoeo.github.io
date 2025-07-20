@@ -18,7 +18,7 @@ Where the article offers most value is in its approach to ontology evaluation. R
 
 The article provides a useful conceptual framework for viewing ontologies not just as abstract structures, but as systems composed of measurable and analyzable units of meaning. This perspective has clear implications for the development of AI systems.
 
----
+
 
 ### References
 
