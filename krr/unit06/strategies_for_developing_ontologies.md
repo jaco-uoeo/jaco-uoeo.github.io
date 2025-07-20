@@ -14,3 +14,5 @@ Ultimately, the choice of method depends on the domain and goals. Well-defined d
 Ciroku, F., de Berardinis, J., Kim, J., Meroño-Peñuela, A., Presutti, V. and Simperl, E., 2024. RevOnt: Reverse engineering of competency questions from knowledge graphs via language models. Journal of Web Semantics, 82, p.100822. https://doi.org/10.1016/j.websem.2024.100822
 
 Noy, N.F. and McGuinness, D.L., 2001. Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory. Available at: https://protege.stanford.edu/publications/ontology_development/ontology101.pdf
+
+[Back to Knowledge Representation and Reasoning](/krr)

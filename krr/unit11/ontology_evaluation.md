@@ -23,3 +23,5 @@ The article provides a useful conceptual framework for viewing ontologies not ju
 ### References
 
 Amirhosseini, M. (2023) ‘The Identification of the Information Quanta in Semantic Network: A basis for the Structural Analysis in Ontology Evaluation’, *International Journal of Information Science and Management (IJISM)*, 21(1), pp. 151–161. Available at: [https://doi.org/10.22034/ijism.2022.1977716.0](https://doi.org/10.22034/ijism.2022.1977716.0).
+
+[Back to Knowledge Representation and Reasoning](/krr)

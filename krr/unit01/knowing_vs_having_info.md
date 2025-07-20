@@ -48,3 +48,5 @@ This exercise underscores the difference between information and knowledge, an e
 ## Reference
 
 Kendal, S. and Creen, M. (2007) *An Introduction to Knowledge Engineering*. London: Springer.
+
+[Back to Knowledge Representation and Reasoning](/krr)

@@ -45,3 +45,5 @@ Overall, the knowledge base in Tree-GPT acts as both a reference library and a g
 #### References
 
 Du, S.Q. et al. (2023) ‘Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis’, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1-W2-2023, pp. 1729–1736. Available at: https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-1729-2023.
+
+[Back to Knowledge Representation and Reasoning](/krr)
