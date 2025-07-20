@@ -7,4 +7,4 @@ description: Course Artefacts and Reflections
 math: true
 
 # this is a way to inject the repo branch we build this site from
-github_branch: main
+github_branch: krr-submit
