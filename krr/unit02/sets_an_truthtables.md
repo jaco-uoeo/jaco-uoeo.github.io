@@ -5,7 +5,7 @@
 
 In this seminar, the focus was on constructing truth tables for various logical statements to determine when these statements are false. This practical exercise builds understanding of basic propositional logic, which is foundational in knowledge representation and reasoning.
 
-The exercises are based on the definitions and concepts introduced in Sharma et al. (2022) on truth tables.
+The exercises are based on the definitions and concepts introduced in Sharma *et al.* (2022) on truth tables.
 
 ---
 
@@ -122,6 +122,6 @@ Constructing these truth tables helps in visualising how different logical opera
 
 ### References
 
-Sharma, G. et al. (no date) Truth Tables. Available at: https://brilliant.org/wiki/truth-tables/ (Accessed: 6 May 2025).
+Sharma, G. *et al.* (no date) Truth Tables. Available at: https://brilliant.org/wiki/truth-tables/ (Accessed: 6 May 2025).
 
 [Back to Knowledge Representation and Reasoning](/krr)
