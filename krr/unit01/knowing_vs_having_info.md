@@ -1,4 +1,4 @@
-# Activity 1 & 2 – Knowing vs Having Information  
+# Knowing vs Having Information  
 {: .hidden-title }
 
 ## Introduction
