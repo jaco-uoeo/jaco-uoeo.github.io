@@ -8,7 +8,7 @@ I engaged with various tools and methodologies that not only deepened my underst
 ## Technical activities
 
 - [Sets, Set Theory, Truth Tables and Logic](unit02/sets_an_truthtables.md)
-- [Formal Logic and Reasoning in Artificial Intelligence](unit03/formal_logic%20_and_reasoning.md)
+- [Formal Logic and Reasoning in Artificial Intelligence](unit03/formal_logic_and_reasoning.md)
 - [Introduction to Logic Programming](unit04/intro_to_logic_programming.md)
 - [Guided Tutorial: A Practical Guide to Building OWL Ontologies](unit08/ontology_development.md)
 - [Guided Tutorial: A Practical Guide to Building OWL Ontologies: Take 2](unit10/ontology_development_take_2.md)
@@ -20,5 +20,5 @@ I engaged with various tools and methodologies that not only deepened my underst
 - [Ontology Evaluation](unit11/ontology_evaluation.md)
 
 ## Collaborative activities
-- [Collaborative Discussion 1: The Emergence of Knowledge Representation in Computing](unit03/collaborative_discussion_1)
+- [Collaborative Discussion 1: The Emergence of Knowledge Representation in Computing](unit03/collaborative_discussion_1.md)
 - [Collaborative Discussion 2: Exploring Ontologies and Their Representation Languages](unit11/collaborative_discussion_2.md)

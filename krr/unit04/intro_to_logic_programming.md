@@ -189,3 +189,5 @@ Palomino, M., Martí-Oliet, N. and Verdejo, A. (2005) ‘Playing with Maude’, 
 ## Reflection
 
 I first worked with logic and Prolog during my undergraduate degree, so this exercise was a great way to revisit those ideas. It reminded me how Prolog approaches problems differently — using rules and relationships instead of step-by-step instructions. Getting it running in the SWISH environment came with a few hiccups, but that actually helped me remember how Prolog thinks. Overall, it was a good refresher and a nice reminder of how useful logic programming can be, especially in areas like AI.
+
+[Back to Knowledge Representation and Reasoning](/krr)

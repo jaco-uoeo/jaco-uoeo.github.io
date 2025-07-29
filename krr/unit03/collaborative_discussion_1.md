@@ -26,7 +26,7 @@ Reasoning is what makes knowledge representation (KR) useful. It lets systems do
 In summary, KR has deep philosophical roots and becomes most powerful when combined with reasoning. However, reasoning isn’t necessary to make KR useful in all cases.
 
  
-References
+#### References
 
 Davis, R., Shrobe, H. and Szolovits, P. (1993) ‘What Is a Knowledge Representation?’, AI Magazine, 14(1), pp. 17–17. Available at: https://doi.org/10.1609/aimag.v14i1.1029.
 
@@ -50,7 +50,7 @@ All in all, your response really reinforces the layered nature of KR from variou
 
 Thanks for your insightful post!
 
-References
+#### References
 
 Brachman, R. J., & Levesque, H. J. (2004). Knowledge representation and reasoning. Morgan Kaufmann.
 
@@ -59,6 +59,7 @@ Gruber, T. R. (1993). A translation approach to portable ontology specifications
 Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
 
 Smith, B. C. (2004). The foundations of computing. In L. Floridi Constructing these truth tables helps in visualising how different logical operators behave and when compound statements are true or false. It is especially useful for understanding logical equivalences, like the contrapositive relation between P → Q and (¬Q) → (¬P). This foundational knowledge supports more complex reasoning tasks and is directly applicable in knowledge representation, automated reasoning, and artificial intelligence.(Ed.), The Blackwell guide to the philosophy of computing and information (pp. 17–32). Blackwell Publishing.
+
 [Back to the top](#)
 
 ### Peer response 2
@@ -73,7 +74,7 @@ The tension you identify between KR's utility with and without reasoning might r
 
 How do you envision the balance between computational efficiency and reasoning sophistication evolving as KR systems scale to handle increasingly complex real-world applications?
 
-References
+#### References
 
 Brachman, R.J. & Levesque, H.J. (2004) Knowledge Representation and Reasoning. Morgan Kaufmann.
 Ji, S., Pan, S., Cambria, E., Marttinen, P. & Philip, S.Y. (2021) 'A survey on knowledge graphs: representation, acquisition, and applications', IEEE Transactions on Neural Networks and Learning Systems, 33(2), pp. 494-514.
@@ -93,7 +94,7 @@ There are also practical examples of KR being useful without any built-in reason
 
  
 
-References
+#### References
 
 Chandrasekar, R. and Ramani, S. (1998) ‘Knowledge Representation and Information Retrieval’, Proc. Indo-US Wkshp on S&SP, 2.
 

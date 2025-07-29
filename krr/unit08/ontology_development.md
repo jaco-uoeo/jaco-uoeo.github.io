@@ -16,3 +16,5 @@ This activity was a helpful hands-on introduction to building ontologies in Prot
 ## References
 
 Debellis, M. (2021) A Practical Guide to Building OWL Ontologies Using Protégé 5.5 and Plugins, ResearchGate. Available at: https://www.researchgate.net/publication/351037551_A_Practical_Guide_to_Building_OWL_Ontologies_Using_Protege_55_and_Plugins (Accessed: 4 July 2025).
+
+[Back to Knowledge Representation and Reasoning](/krr)
