@@ -8,7 +8,7 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 <div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
-    <a href="ia" style="text-decoration: none;">Intelligent Agents</a>
+    <a href="intelligent_agents" style="text-decoration: none;">Intelligent Agents</a>
   </h3>
   <p>Intelligent agents are autonomous software systems designed to perceive their environment and make decisions to achieve specific goals. They adapt and respond intelligently to changes, making them valuable tools across various industries. This field explores how agents operate, learn, and interact to solve complex, real-world problems in dynamic settings....
   <br/>
