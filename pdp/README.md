@@ -11,6 +11,7 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 | Time & Energy Mgmt       | 2       | 4      | Keeps me consistent without burnout                       | Protected MSc time + recovery                        |
 | Strategic Reading        | 3       | 5      | Smarter reading → better ideas, faster learning            | 2 focused articles/papers/week + highlight key takeaways |
 | ML Application Practice  | 2       | 5      | Applying things makes it stick (plus builds a portfolio)| Weekly mini-projects, 1–2 hours/week                |
+| Collaborative Communication| 3 | 5 | Essential for effective teamwork, especially in remote or cross-functional settings | Clear and structured communication skills |
 
 ---
 
@@ -47,6 +48,7 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 2. What distracted me most often?  
 3. Is my 2-hour routine working, or do I need to adjust?  
 4. What’s one small experiment I can try next month?
+5. Have I used what I’ve learned in practical or real-world contexts?
 
 
 [Back](/)

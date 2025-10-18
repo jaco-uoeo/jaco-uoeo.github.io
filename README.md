@@ -8,6 +8,17 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 
 <div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
   <h3 style="margin-top: 0;">
+    <a href="ia" style="text-decoration: none;">Intelligent Agents</a>
+  </h3>
+  <p>Intelligent agents are autonomous software systems designed to perceive their environment and make decisions to achieve specific goals. They adapt and respond intelligently to changes, making them valuable tools across various industries. This field explores how agents operate, learn, and interact to solve complex, real-world problems in dynamic settings....
+  <br/>
+  <a href="intelligent_agents" style="text-decoration: none; margin-left:10px; float: right;">more</a>
+  </p>
+</div>
+
+
+<div style="width: 100%; margin: 20px auto; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
+  <h3 style="margin-top: 0;">
     <a href="krr" style="text-decoration: none;">Knowledge Representation and Reasoning</a>
   </h3>
   <p>Knowledge Representation and Reasoning (KRR) is about how intelligent systems can represent information about the world and use that knowledge to make informed decisions. It’s a core aspect of artificial intelligence, enabling machines to reason logically, solve problems, and understand complex relationships. This module explores key concepts, formal frameworks, and practical tools used to model and manipulate knowledge, with a focus on both theoretical foundations and real-world applications in AI systems...
@@ -35,3 +46,4 @@ This e-portfolio is very much a work in progress and will continue to evolve as 
 <a href="pdp" style="text-decoration: none; margin-left:10px; float: right;">more</a>
   </p>
 </div>
+
