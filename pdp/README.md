@@ -44,7 +44,7 @@ Lately, with my current MSc project, I’ve felt the pressure of juggling work, 
 
 ## Monthly Review
 
-1. What did I learn or apply this month?  
+1. What did I learn this month?  
 2. What distracted me most often?  
 3. Is my 2-hour routine working, or do I need to adjust?  
 4. What’s one small experiment I can try next month?
