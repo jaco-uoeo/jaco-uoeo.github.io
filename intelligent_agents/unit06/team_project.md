@@ -14,11 +14,11 @@ The tasks that you should consider are:
 
 The agreed success criteria for successful development are:
 
--The agent can identify and retrieve data.
+- The agent can identify and retrieve data.
 
--The data is processed in some way.
+- The data is processed in some way.
 
--The processed information is stored/saved/presented.
+- The processed information is stored/saved/presented.
 
 Your team is expected to prepare and deliver a comprehensive design proposal report, describing how you will meet the requirements, design and implementation of the solution for the organisation.
 
@@ -49,3 +49,5 @@ The team contract and all collaborative documents were maintained on a shared Go
  A [GitHub project](https://github.com/jaco-uoeo/ia-group-e) was established with a template repository to facilitate testing of libraries and design concepts before settling on a final proposal.
 
 ![GitHub](github.png)
+
+[Back to Intelligent Agents](/intelligent_agents)

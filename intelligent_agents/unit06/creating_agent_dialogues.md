@@ -110,3 +110,5 @@ To structure their conversation, I used ask-one and tell performatives from KQML
 While the messages may look a bit verbose, especially when compared to human communication, this level of detail is necessary. Unlike humans, agents don’t share context or assumptions, they rely entirely on explicit communication. That’s why formal languages like KQML and KIF are so powerful in multi-agent systems: they provide a common contract that defines how information should be structured, interpreted, and responded to.
 
 What stood out to me was how the structure of the dialogue itself, even without any graphical interface, clearly showed the intent and flow of reasoning between the two agents. It felt more like programming a conversation than writing one, and that’s a useful perspective when thinking about agent design in AI systems.
+
+[Back to Intelligent Agents](/intelligent_agents)

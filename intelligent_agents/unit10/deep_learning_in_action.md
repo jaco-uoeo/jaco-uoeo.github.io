@@ -45,3 +45,6 @@ Raza, A., Munir, K. and Almutairi, M. (2022) A Novel Deep Learning Approach for 
 Rathoure, N. et al. (2024) ‘Combating deepfakes: a comprehensive multilayer deepfake video detection framework’, Multimedia Tools and Applications, 83(38), pp. 85619–85636. Available at: https://doi.org/10.1007/s11042-024-20012-5.
 
 Soudy, A.H. et al. (2024) ‘Deepfake detection using convolutional vision transformers and convolutional neural networks’, Neural Computing and Applications, 36(31), pp. 19759–19775. Available at: https://doi.org/10.1007/s00521-024-10181-7.
+
+
+[Back to Intelligent Agents](/intelligent_agents)
