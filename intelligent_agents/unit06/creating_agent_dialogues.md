@@ -82,17 +82,7 @@ Bob replies: "The TV has 2 HDMI slots."
 ### Sequence diagram
 The following sequence diagram is a useful tool for vidualising the interaction between Alice and Bob. 
 
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-
-    Alice->>Bob: ask-one\n(content:(exists ((?tv Television))(and (has-size ?tv 50-inch)(in-stock ?tv ?quantity))))
-    Bob-->>Alice: tell\n(content:(and (has-size tv123 50-inch)(in-stock tv123 27)))
-
-    Alice->>Bob: ask-one(content:(has-hdmi-slots tv123 ?numSlots))
-    Bob-->>Alice: tell(content:\n(has-hdmi-slots tv123 3))
-```
+![alt text](sequence.png)
 
 ## Reflection
 As part of my coursework on intelligent agents, I explored how two software agents can communicate using standardized protocols — KQML (Knowledge Query and Manipulation Language) for message exchange, and KIF (Knowledge Interchange Format) for expressing the meaning behind those messages.
