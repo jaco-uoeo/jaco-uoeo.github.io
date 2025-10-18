@@ -87,11 +87,11 @@ sequenceDiagram
     participant Alice
     participant Bob
 
-    Alice->>Bob: ask-one\n(content:\n(exists ((?tv Television))\n(and (has-size ?tv 50-inch)\n(in-stock ?tv ?quantity))))
-    Bob-->>Alice: tell\n(content:\n(and (has-size tv123 50-inch)\n(in-stock tv123 27)))
+    Alice->>Bob: ask-one\n(content:(exists ((?tv Television))(and (has-size ?tv 50-inch)(in-stock ?tv ?quantity))))
+    Bob-->>Alice: tell\n(content:(and (has-size tv123 50-inch)(in-stock tv123 27)))
 
-    Alice->>Bob: ask-one\n(content:\n(has-hdmi-slots tv123 ?numSlots))
-    Bob-->>Alice: tell\n(content:\n(has-hdmi-slots tv123 3))
+    Alice->>Bob: ask-one(content:(has-hdmi-slots tv123 ?numSlots))
+    Bob-->>Alice: tell(content:\n(has-hdmi-slots tv123 3))
 ```
 
 ## Reflection

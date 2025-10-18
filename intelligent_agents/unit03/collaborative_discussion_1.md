@@ -84,7 +84,7 @@ And finally, keeping agents updated through continuous learning ensures they ada
 
 #### References
 
-Jennings, N.R., Sycara, K. and Wooldridge, M. (2014) ‘A roadmap of agent research and development’, Autonomous Agents and Multi-Agent Systems, 1(1), pp. 7–38. A Roadmap of Agent Research and Development | Autonomous Agents and Multi-Agent Systems
+Jennings, N.R., Sycara, K. and Wooldridge, M. (2014) ‘A roadmap of agent research and development’, Autonomous Agents and Multi-Agent Systems, 1(1), pp. 7–38. A Roadmap of Agent Research and Development Autonomous Agents and Multi-Agent Systems
 
 Parunak, H.V.D., Savit, R. and Riolo, R.L. (1998) ‘Agent-based modeling vs. equation-based modeling: A case study and users’ guide’, Proceedings of Multi-Agent Systems and Agent-Based Simulation, pp. 10–25.
 

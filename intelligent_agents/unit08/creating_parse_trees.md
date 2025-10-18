@@ -31,89 +31,20 @@ P |	Preposition
 
 
 #### The government raised interest rates
-```mermaid
-graph TD
-  S["S"]
-  NP1["NP"]
-  Det1["Det: The"]
-  N1["N: government"]
-  VP1["VP"]
-  V1["V: raised"]
-  NP2["NP"]
-  N2a["N: interest"]
-  N2b["N: rates"]
 
-  S --> NP1
-  NP1 --> Det1
-  NP1 --> N1
-  S --> VP1
-  VP1 --> V1
-  VP1 --> NP2
-  NP2 --> N2a
-  NP2 --> N2b
-```
+![government](government.png)
 
 
 #### The internet gives everyone a voice.
-```mermaid
-graph TD
-  S["S"]
-  NP1["NP"]
-  Det1["Det: The"]
-  N1["N: internet"]
-  VP1["VP"]
-  V1["V: gives"]
-  NP2["NP"]
-  N2["N: everyone"]
-  NP3["NP"]
-  Det3["Det: a"]
-  N3["N: voice"]
 
-  S --> NP1
-  NP1 --> Det1
-  NP1 --> N1
-  S --> VP1
-  VP1 --> V1
-  VP1 --> NP2
-  NP2 --> N2
-  VP1 --> NP3
-  NP3 --> Det3
-  NP3 --> N3
-```
+![internet](internet.png)
+
 
 
 #### The man saw the dog with the telescope.
-```mermaid
-graph TD
-  S["S"]
-  NP1["NP"]
-  Det1["Det: The"]
-  N1["N: man"]
-  VP1["VP"]
-  V1["V: saw"]
-  NP2["NP"]
-  Det2["Det: the"]
-  N2["N: dog"]
-  PP["PP"]
-  P["P: with"]
-  NP3["NP"]
-  Det3["Det: the"]
-  N3["N: telescope"]
 
-  S --> NP1
-  NP1 --> Det1
-  NP1 --> N1
-  S --> VP1
-  VP1 --> V1
-  VP1 --> NP2
-  NP2 --> Det2
-  NP2 --> N2
-  NP2 --> PP
-  PP --> P
-  PP --> NP3
-  NP3 --> Det3
-  NP3 --> N3
-```
+![telescope](telescope.png)
+
 
 
 ### Reflection
